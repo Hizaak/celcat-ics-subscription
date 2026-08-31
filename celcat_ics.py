@@ -22,6 +22,24 @@ ENDPOINT = f"{BASE}/Home/GetCalendarData"
 PARIS = ZoneInfo("Europe/Paris")
 RES_TYPE_GROUP = 103  # confirme par EntityTypeAsIntegerString dans l'URL de la vue groupe
 
+VTIMEZONE = """BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE"""
+
 
 def fetch_events(group, start, end):
     payload = {
@@ -60,11 +78,9 @@ def clean(raw):
     return out
 
 
-def to_utc(naive_str):
-    dt = datetime.fromisoformat(naive_str)
-    if dt.tzinfo is None:
-        dt = dt.replace(tzinfo=PARIS)
-    return dt.astimezone(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+def to_local(naive_str):
+    """Heure locale + TZID, comme attendu par les clients les plus tatillons."""
+    return datetime.fromisoformat(naive_str[:19]).strftime("%Y%m%dT%H%M%S")
 
 
 def esc(text):
@@ -135,6 +151,7 @@ def build_ics(events, calname, exclude=()):
         "X-WR-TIMEZONE:Europe/Paris",
         "X-PUBLISHED-TTL:PT1H",
         "REFRESH-INTERVAL;VALUE=DURATION:PT1H",
+        VTIMEZONE.replace("\n", "\r\n"),
     ]
 
     for ev in events:
@@ -175,9 +192,9 @@ def build_ics(events, calname, exclude=()):
         uid_seed = f"{ev.get('id','')}|{ev['start']}|{title}"
         uid = hashlib.sha1(uid_seed.encode("utf-8")).hexdigest()
 
-        # DTSTAMP deterministe : sinon le fichier change a chaque run
-        # et le workflow commite toutes les 6 h pour rien.
-        stamp = to_utc(ev["start"])
+        # DTSTAMP fixe : deterministe (pas de commit inutile a chaque run)
+        # et sans date future, que certains clients digerent mal.
+        stamp = "20200101T000000Z"
 
         lines.append("BEGIN:VEVENT")
         lines.append(f"UID:{uid}@celcat.u-bordeaux.fr")
@@ -190,9 +207,9 @@ def build_ics(events, calname, exclude=()):
             lines.append(f"DTSTART;VALUE=DATE:{d0.strftime('%Y%m%d')}")
             lines.append(f"DTEND;VALUE=DATE:{(d1 + timedelta(days=1)).strftime('%Y%m%d')}")
         else:
-            lines.append(f"DTSTART:{to_utc(ev['start'])}")
-            if ev.get("end"):
-                lines.append(f"DTEND:{to_utc(ev['end'])}")
+            lines.append(f"DTSTART;TZID=Europe/Paris:{to_local(ev['start'])}")
+            end = ev.get("end") or ev["start"]
+            lines.append(f"DTEND;TZID=Europe/Paris:{to_local(end)}")
         lines.append(fold(f"SUMMARY:{esc(summary)}"))
         if location:
             lines.append(fold(f"LOCATION:{esc(location)}"))
