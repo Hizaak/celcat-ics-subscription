@@ -1,0 +1,2033 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//celcat_calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:4TVL904S M2 Algorithms\, Models and Verification
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604792:3@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20260908T101500
+DTEND;TZID=Europe/Paris:20260908T121500
+SUMMARY:4TIN919U Game synthesis & control - Cours/TD
+LOCATION:Bâtiment A21
+DESCRIPTION:Cours/TD\n4TIN919U Game synthesis & control\n4TVL904S M2 Algo
+ rithms\, Models and Verification\nLAGARDE Guillaume\nMUSCHOLL Anca\nA21/
+  Salle 160\n37-43\,45-49\nSalle TD avec ID 1604791
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604792:4@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20260915T101500
+DTEND;TZID=Europe/Paris:20260915T121500
+SUMMARY:4TIN919U Game synthesis & control - Cours/TD
+LOCATION:Bâtiment A21
+DESCRIPTION:Cours/TD\n4TIN919U Game synthesis & control\n4TVL904S M2 Algo
+ rithms\, Models and Verification\nLAGARDE Guillaume\nMUSCHOLL Anca\nA21/
+  Salle 302\n37-43\,45-49\nSalle TD avec ID 1604791
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604792:5@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20260922T101500
+DTEND;TZID=Europe/Paris:20260922T121500
+SUMMARY:4TIN919U Game synthesis & control - Cours/TD
+LOCATION:Bâtiment A22
+DESCRIPTION:Cours/TD\n4TIN919U Game synthesis & control\n4TVL904S M2 Algo
+ rithms\, Models and Verification\nLAGARDE Guillaume\nMUSCHOLL Anca\nA22/
+  Salle 113\n37-43\,45-49\nSalle TD avec ID 1604791
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604792:6@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20260929T101500
+DTEND;TZID=Europe/Paris:20260929T121500
+SUMMARY:4TIN919U Game synthesis & control - Cours/TD
+LOCATION:Bâtiment A21
+DESCRIPTION:Cours/TD\n4TIN919U Game synthesis & control\n4TVL904S M2 Algo
+ rithms\, Models and Verification\nLAGARDE Guillaume\nMUSCHOLL Anca\nA21/
+  Salle 404\n37-43\,45-49\nSalle TD avec ID 1604791
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604792:7@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261006T101500
+DTEND;TZID=Europe/Paris:20261006T121500
+SUMMARY:4TIN919U Game synthesis & control - Cours/TD
+LOCATION:Bâtiment A22
+DESCRIPTION:Cours/TD\n4TIN919U Game synthesis & control\n4TVL904S M2 Algo
+ rithms\, Models and Verification\nLAGARDE Guillaume\nMUSCHOLL Anca\nA22/
+  Salle 119\n37-43\,45-49\nSalle TD avec ID 1604791
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604792:8@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261013T101500
+DTEND;TZID=Europe/Paris:20261013T121500
+SUMMARY:4TIN919U Game synthesis & control - Cours/TD
+LOCATION:Bâtiment A21
+DESCRIPTION:Cours/TD\n4TIN919U Game synthesis & control\n4TVL904S M2 Algo
+ rithms\, Models and Verification\nLAGARDE Guillaume\nMUSCHOLL Anca\nA21/
+  Salle 403\n37-43\,45-49\nSalle TD avec ID 1604791
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604792:9@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261020T101500
+DTEND;TZID=Europe/Paris:20261020T121500
+SUMMARY:4TIN919U Game synthesis & control - Cours/TD
+LOCATION:Bâtiment A21
+DESCRIPTION:Cours/TD\n4TIN919U Game synthesis & control\n4TVL904S M2 Algo
+ rithms\, Models and Verification\nLAGARDE Guillaume\nMUSCHOLL Anca\nA21/
+  Salle 403\n37-43\,45-49\nSalle TD avec ID 1604791
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604792:11@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261103T101500
+DTEND;TZID=Europe/Paris:20261103T121500
+SUMMARY:4TIN919U Game synthesis & control - Cours/TD
+LOCATION:Bâtiment A21
+DESCRIPTION:Cours/TD\n4TIN919U Game synthesis & control\n4TVL904S M2 Algo
+ rithms\, Models and Verification\nLAGARDE Guillaume\nMUSCHOLL Anca\nA21/
+  Salle 160\n37-43\,45-49\nSalle TD avec ID 1604791
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604792:12@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261110T101500
+DTEND;TZID=Europe/Paris:20261110T121500
+SUMMARY:4TIN919U Game synthesis & control - Cours/TD
+LOCATION:Bâtiment A21
+DESCRIPTION:Cours/TD\n4TIN919U Game synthesis & control\n4TVL904S M2 Algo
+ rithms\, Models and Verification\nLAGARDE Guillaume\nMUSCHOLL Anca\nA21/
+  Salle 403\n37-43\,45-49\nSalle TD avec ID 1604791
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604792:13@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261117T101500
+DTEND;TZID=Europe/Paris:20261117T121500
+SUMMARY:4TIN919U Game synthesis & control - Cours/TD
+LOCATION:Bâtiment A21
+DESCRIPTION:Cours/TD\n4TIN919U Game synthesis & control\n4TVL904S M2 Algo
+ rithms\, Models and Verification\nLAGARDE Guillaume\nMUSCHOLL Anca\nA21/
+  Salle 303\n37-43\,45-49\nSalle TD avec ID 1604791
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604792:14@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261124T101500
+DTEND;TZID=Europe/Paris:20261124T121500
+SUMMARY:4TIN919U Game synthesis & control - Cours/TD
+LOCATION:Bâtiment A21
+DESCRIPTION:Cours/TD\n4TIN919U Game synthesis & control\n4TVL904S M2 Algo
+ rithms\, Models and Verification\nLAGARDE Guillaume\nMUSCHOLL Anca\nA21/
+  Salle 303\n37-43\,45-49\nSalle TD avec ID 1604791
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604792:15@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261201T101500
+DTEND;TZID=Europe/Paris:20261201T121500
+SUMMARY:4TIN919U Game synthesis & control - Cours/TD
+LOCATION:Bâtiment A21
+DESCRIPTION:Cours/TD\n4TIN919U Game synthesis & control\n4TVL904S M2 Algo
+ rithms\, Models and Verification\nLAGARDE Guillaume\nMUSCHOLL Anca\nA21/
+  Salle 303\n37-43\,45-49\nSalle TD avec ID 1604791
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604795:6@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20260929T161500
+DTEND;TZID=Europe/Paris:20260929T181500
+SUMMARY:4TIN901U - Cours
+LOCATION:Bâtiment A9
+DESCRIPTION:Cours\n4TIN901U Lecture d'articles et documentation scientifi
+ que\n4TIN925U NUMERICS I\n4TCI902S CISD\n4TGL904S M2 Génie Logiciel\n4T
+ IA901S M2 Intelligence artificielle\n4TIS904S M2 Informatique pour l'Ima
+ ge et le Son\n4TSD901S ASPIC\n4TVL904S M2 Algorithms\, Models and Verifi
+ cation\nDESBARATS Pascal\nA9.a / Amphithéâtre 1\n40\,42\nAmphi avec ID
+ s 1604793 et 1604796
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604795:8@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261013T161500
+DTEND;TZID=Europe/Paris:20261013T181500
+SUMMARY:4TIN901U - Cours
+LOCATION:Bâtiment A9
+DESCRIPTION:Cours\n4TIN901U Lecture d'articles et documentation scientifi
+ que\n4TIN925U NUMERICS I\n4TCI902S CISD\n4TGL904S M2 Génie Logiciel\n4T
+ IA901S M2 Intelligence artificielle\n4TIS904S M2 Informatique pour l'Ima
+ ge et le Son\n4TSD901S ASPIC\n4TVL904S M2 Algorithms\, Models and Verifi
+ cation\nDESBARATS Pascal\nA9.a / Amphithéâtre 3\n40\,42\nAmphi avec ID
+ s 1604793 et 1604796
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604869:4@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20260916T140000
+DTEND;TZID=Europe/Paris:20260916T160000
+SUMMARY:4TIN913U Distributed algorithms - Cours/TD
+LOCATION:Bâtiment A29
+DESCRIPTION:Cours/TD\n4TIN913U Distributed algorithms\n4TGL904S - Groupe 
+ 2\n4TVL904S M2 Algorithms\, Models and Verification\nGAVOILLE Cyril\nA29
+ / Amphithéâtre A\n38-43\,45\,47-51\nCours incompatible avec l'UE d'ang
+ lais
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604869:5@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20260923T140000
+DTEND;TZID=Europe/Paris:20260923T160000
+SUMMARY:4TIN913U Distributed algorithms - Cours/TD
+LOCATION:Bâtiment A9
+DESCRIPTION:Cours/TD\n4TIN913U Distributed algorithms\n4TGL904S - Groupe 
+ 2\n4TVL904S M2 Algorithms\, Models and Verification\nGAVOILLE Cyril\nA9.
+ b / Salle 001-002\n38-43\,45\,47-51\nCours incompatible avec l'UE d'angl
+ ais
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604869:6@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20260930T140000
+DTEND;TZID=Europe/Paris:20260930T160000
+SUMMARY:4TIN913U Distributed algorithms - Cours/TD
+LOCATION:Bâtiment A21
+DESCRIPTION:Cours/TD\n4TIN913U Distributed algorithms\n4TGL904S - Groupe 
+ 2\n4TVL904S M2 Algorithms\, Models and Verification\nGAVOILLE Cyril\nA21
+ / Salle 155\n38-43\,45\,47-51\nCours incompatible avec l'UE d'anglais
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604869:7@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261007T140000
+DTEND;TZID=Europe/Paris:20261007T160000
+SUMMARY:4TIN913U Distributed algorithms - Cours/TD
+LOCATION:Bâtiment A29
+DESCRIPTION:Cours/TD\n4TIN913U Distributed algorithms\n4TGL904S - Groupe 
+ 2\n4TVL904S M2 Algorithms\, Models and Verification\nGAVOILLE Cyril\nA29
+ / Amphithéâtre E\n38-43\,45\,47-51\nCours incompatible avec l'UE d'ang
+ lais
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604869:8@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261014T140000
+DTEND;TZID=Europe/Paris:20261014T160000
+SUMMARY:4TIN913U Distributed algorithms - Cours/TD
+LOCATION:Bâtiment A21
+DESCRIPTION:Cours/TD\n4TIN913U Distributed algorithms\n4TGL904S - Groupe 
+ 2\n4TVL904S M2 Algorithms\, Models and Verification\nGAVOILLE Cyril\nA21
+ / Salle 155\n38-43\,45\,47-51\nCours incompatible avec l'UE d'anglais
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604869:9@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261021T140000
+DTEND;TZID=Europe/Paris:20261021T160000
+SUMMARY:4TIN913U Distributed algorithms - Cours/TD
+LOCATION:Bâtiment A21
+DESCRIPTION:Cours/TD\n4TIN913U Distributed algorithms\n4TGL904S - Groupe 
+ 2\n4TVL904S M2 Algorithms\, Models and Verification\nGAVOILLE Cyril\nA21
+ / Salle 155\n38-43\,45\,47-51\nCours incompatible avec l'UE d'anglais
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604869:11@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261104T140000
+DTEND;TZID=Europe/Paris:20261104T160000
+SUMMARY:4TIN913U Distributed algorithms - Cours/TD
+LOCATION:Bâtiment A22
+DESCRIPTION:Cours/TD\n4TIN913U Distributed algorithms\n4TGL904S - Groupe 
+ 2\n4TVL904S M2 Algorithms\, Models and Verification\nGAVOILLE Cyril\nA22
+ / Salle 205\n38-43\,45\,47-51\nCours incompatible avec l'UE d'anglais
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604869:13@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261118T140000
+DTEND;TZID=Europe/Paris:20261118T160000
+SUMMARY:4TIN913U Distributed algorithms - Cours/TD
+LOCATION:Bâtiment A21
+DESCRIPTION:Cours/TD\n4TIN913U Distributed algorithms\n4TGL904S - Groupe 
+ 2\n4TVL904S M2 Algorithms\, Models and Verification\nGAVOILLE Cyril\nA21
+ / Salle 155\n38-43\,45\,47-51\nCours incompatible avec l'UE d'anglais
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604869:14@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261125T140000
+DTEND;TZID=Europe/Paris:20261125T160000
+SUMMARY:4TIN913U Distributed algorithms - Cours/TD
+LOCATION:Bâtiment A22
+DESCRIPTION:Cours/TD\n4TIN913U Distributed algorithms\n4TGL904S - Groupe 
+ 2\n4TVL904S M2 Algorithms\, Models and Verification\nGAVOILLE Cyril\nA22
+ / Salle 101\n38-43\,45\,47-51\nCours incompatible avec l'UE d'anglais
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604869:15@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261202T140000
+DTEND;TZID=Europe/Paris:20261202T160000
+SUMMARY:4TIN913U Distributed algorithms - Cours/TD
+LOCATION:Bâtiment A29
+DESCRIPTION:Cours/TD\n4TIN913U Distributed algorithms\n4TGL904S - Groupe 
+ 2\n4TVL904S M2 Algorithms\, Models and Verification\nGAVOILLE Cyril\nA29
+ / Salle 001\n38-43\,45\,47-51\nCours incompatible avec l'UE d'anglais
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604869:16@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261209T140000
+DTEND;TZID=Europe/Paris:20261209T160000
+SUMMARY:4TIN913U Distributed algorithms - Cours/TD
+LOCATION:Bâtiment A29
+DESCRIPTION:Cours/TD\n4TIN913U Distributed algorithms\n4TGL904S - Groupe 
+ 2\n4TVL904S M2 Algorithms\, Models and Verification\nGAVOILLE Cyril\nA29
+ / Salle 104\n38-43\,45\,47-51\nCours incompatible avec l'UE d'anglais
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604869:17@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261216T140000
+DTEND;TZID=Europe/Paris:20261216T160000
+SUMMARY:4TIN913U Distributed algorithms - Cours/TD
+LOCATION:Bâtiment A29
+DESCRIPTION:Cours/TD\n4TIN913U Distributed algorithms\n4TGL904S - Groupe 
+ 2\n4TVL904S M2 Algorithms\, Models and Verification\nGAVOILLE Cyril\nA29
+ / Salle 104\n38-43\,45\,47-51\nCours incompatible avec l'UE d'anglais
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604870:4@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20260916T161500
+DTEND;TZID=Europe/Paris:20260916T181500
+SUMMARY:4TIN919U Game synthesis & control - Cours/TD
+LOCATION:Bâtiment A29
+DESCRIPTION:Cours/TD\n4TIN919U Game synthesis & control\n4TVL904S M2 Algo
+ rithms\, Models and Verification\nLAGARDE Guillaume\nMUSCHOLL Anca\nA29/
+  Amphithéâtre A\n38-43\,45\,47-51\nSalle TD avec ID 1604869
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604870:5@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20260923T161500
+DTEND;TZID=Europe/Paris:20260923T181500
+SUMMARY:4TIN919U Game synthesis & control - Cours/TD
+LOCATION:Bâtiment A9
+DESCRIPTION:Cours/TD\n4TIN919U Game synthesis & control\n4TVL904S M2 Algo
+ rithms\, Models and Verification\nLAGARDE Guillaume\nMUSCHOLL Anca\nA9.b
+  / Salle 001-002\n38-43\,45\,47-51\nSalle TD avec ID 1604869
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604870:6@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20260930T161500
+DTEND;TZID=Europe/Paris:20260930T181500
+SUMMARY:4TIN919U Game synthesis & control - Cours/TD
+LOCATION:Bâtiment A21
+DESCRIPTION:Cours/TD\n4TIN919U Game synthesis & control\n4TVL904S M2 Algo
+ rithms\, Models and Verification\nLAGARDE Guillaume\nMUSCHOLL Anca\nA21/
+  Salle 155\n38-43\,45\,47-51\nSalle TD avec ID 1604869
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604870:7@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261007T161500
+DTEND;TZID=Europe/Paris:20261007T181500
+SUMMARY:4TIN919U Game synthesis & control - Cours/TD
+LOCATION:Bâtiment A29
+DESCRIPTION:Cours/TD\n4TIN919U Game synthesis & control\n4TVL904S M2 Algo
+ rithms\, Models and Verification\nLAGARDE Guillaume\nMUSCHOLL Anca\nA29/
+  Amphithéâtre E\n38-43\,45\,47-51\nSalle TD avec ID 1604869
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604870:8@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261014T161500
+DTEND;TZID=Europe/Paris:20261014T181500
+SUMMARY:4TIN919U Game synthesis & control - Cours/TD
+LOCATION:Bâtiment A21
+DESCRIPTION:Cours/TD\n4TIN919U Game synthesis & control\n4TVL904S M2 Algo
+ rithms\, Models and Verification\nLAGARDE Guillaume\nMUSCHOLL Anca\nA21/
+  Salle 155\n38-43\,45\,47-51\nSalle TD avec ID 1604869
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604870:9@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261021T161500
+DTEND;TZID=Europe/Paris:20261021T181500
+SUMMARY:4TIN919U Game synthesis & control - Cours/TD
+LOCATION:Bâtiment A21
+DESCRIPTION:Cours/TD\n4TIN919U Game synthesis & control\n4TVL904S M2 Algo
+ rithms\, Models and Verification\nLAGARDE Guillaume\nMUSCHOLL Anca\nA21/
+  Salle 155\n38-43\,45\,47-51\nSalle TD avec ID 1604869
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604870:11@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261104T161500
+DTEND;TZID=Europe/Paris:20261104T181500
+SUMMARY:4TIN919U Game synthesis & control - Cours/TD
+LOCATION:Bâtiment A22
+DESCRIPTION:Cours/TD\n4TIN919U Game synthesis & control\n4TVL904S M2 Algo
+ rithms\, Models and Verification\nLAGARDE Guillaume\nMUSCHOLL Anca\nA22/
+  Salle 205\n38-43\,45\,47-51\nSalle TD avec ID 1604869
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604870:13@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261118T161500
+DTEND;TZID=Europe/Paris:20261118T181500
+SUMMARY:4TIN919U Game synthesis & control - Cours/TD
+LOCATION:Bâtiment A21
+DESCRIPTION:Cours/TD\n4TIN919U Game synthesis & control\n4TVL904S M2 Algo
+ rithms\, Models and Verification\nLAGARDE Guillaume\nMUSCHOLL Anca\nA21/
+  Salle 155\n38-43\,45\,47-51\nSalle TD avec ID 1604869
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604870:14@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261125T161500
+DTEND;TZID=Europe/Paris:20261125T181500
+SUMMARY:4TIN919U Game synthesis & control - Cours/TD
+LOCATION:Bâtiment A22
+DESCRIPTION:Cours/TD\n4TIN919U Game synthesis & control\n4TVL904S M2 Algo
+ rithms\, Models and Verification\nLAGARDE Guillaume\nMUSCHOLL Anca\nA22/
+  Salle 101\n38-43\,45\,47-51\nSalle TD avec ID 1604869
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604870:15@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261202T161500
+DTEND;TZID=Europe/Paris:20261202T181500
+SUMMARY:4TIN919U Game synthesis & control - Cours/TD
+LOCATION:Bâtiment A29
+DESCRIPTION:Cours/TD\n4TIN919U Game synthesis & control\n4TVL904S M2 Algo
+ rithms\, Models and Verification\nLAGARDE Guillaume\nMUSCHOLL Anca\nA29/
+  Salle 001\n38-43\,45\,47-51\nSalle TD avec ID 1604869
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604870:16@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261209T161500
+DTEND;TZID=Europe/Paris:20261209T181500
+SUMMARY:4TIN919U Game synthesis & control - Cours/TD
+LOCATION:Bâtiment A29
+DESCRIPTION:Cours/TD\n4TIN919U Game synthesis & control\n4TVL904S M2 Algo
+ rithms\, Models and Verification\nLAGARDE Guillaume\nMUSCHOLL Anca\nA29/
+  Salle 104\n38-43\,45\,47-51\nSalle TD avec ID 1604869
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604870:17@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261216T161500
+DTEND;TZID=Europe/Paris:20261216T181500
+SUMMARY:4TIN919U Game synthesis & control - Cours/TD
+LOCATION:Bâtiment A29
+DESCRIPTION:Cours/TD\n4TIN919U Game synthesis & control\n4TVL904S M2 Algo
+ rithms\, Models and Verification\nLAGARDE Guillaume\nMUSCHOLL Anca\nA29/
+  Salle 104\n38-43\,45\,47-51\nSalle TD avec ID 1604869
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604877:4@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20260918T161500
+DTEND;TZID=Europe/Paris:20260918T181500
+SUMMARY:4TIN914U Logic and languages - Cours/TD
+LOCATION:Bâtiment A22
+DESCRIPTION:Cours/TD\n4TIN914U Logic and languages\n4TCY901S\n4TGL904S M2
+  Génie Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nLAGA
+ RDE Guillaume\nPLACE Thomas\nZEITOUN Marc\nA22 / Salle 96\n38-43\,45-50\
+ nSalle TD avec ID 1604891\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604877:5@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20260925T161500
+DTEND;TZID=Europe/Paris:20260925T181500
+SUMMARY:4TIN914U Logic and languages - Cours/TD
+LOCATION:Bâtiment A22
+DESCRIPTION:Cours/TD\n4TIN914U Logic and languages\n4TCY901S\n4TGL904S M2
+  Génie Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nLAGA
+ RDE Guillaume\nPLACE Thomas\nZEITOUN Marc\nA22 / Salle 96\n38-43\,45-50\
+ nSalle TD avec ID 1604891\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604877:6@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261002T161500
+DTEND;TZID=Europe/Paris:20261002T181500
+SUMMARY:4TIN914U Logic and languages - Cours/TD
+LOCATION:Bâtiment A22
+DESCRIPTION:Cours/TD\n4TIN914U Logic and languages\n4TCY901S\n4TGL904S M2
+  Génie Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nLAGA
+ RDE Guillaume\nPLACE Thomas\nZEITOUN Marc\nA22 / Salle 96\n38-43\,45-50\
+ nSalle TD avec ID 1604891\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604877:7@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261009T161500
+DTEND;TZID=Europe/Paris:20261009T181500
+SUMMARY:4TIN914U Logic and languages - Cours/TD
+LOCATION:Bâtiment A22
+DESCRIPTION:Cours/TD\n4TIN914U Logic and languages\n4TCY901S\n4TGL904S M2
+  Génie Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nLAGA
+ RDE Guillaume\nPLACE Thomas\nZEITOUN Marc\nA22 / Salle 96\n38-43\,45-50\
+ nSalle TD avec ID 1604891\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604877:8@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261016T161500
+DTEND;TZID=Europe/Paris:20261016T181500
+SUMMARY:4TIN914U Logic and languages - Cours/TD
+LOCATION:Bâtiment A22
+DESCRIPTION:Cours/TD\n4TIN914U Logic and languages\n4TCY901S\n4TGL904S M2
+  Génie Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nLAGA
+ RDE Guillaume\nPLACE Thomas\nZEITOUN Marc\nA22 / Salle 96\n38-43\,45-50\
+ nSalle TD avec ID 1604891\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604877:9@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261023T161500
+DTEND;TZID=Europe/Paris:20261023T181500
+SUMMARY:4TIN914U Logic and languages - Cours/TD
+LOCATION:Bâtiment A21
+DESCRIPTION:Cours/TD\n4TIN914U Logic and languages\n4TCY901S\n4TGL904S M2
+  Génie Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nLAGA
+ RDE Guillaume\nPLACE Thomas\nZEITOUN Marc\nA21/ Salle 150\n38-43\,45-50\
+ nSalle TD avec ID 1604891\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604877:11@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261106T161500
+DTEND;TZID=Europe/Paris:20261106T181500
+SUMMARY:4TIN914U Logic and languages - Cours/TD
+LOCATION:Bâtiment A29
+DESCRIPTION:Cours/TD\n4TIN914U Logic and languages\n4TCY901S\n4TGL904S M2
+  Génie Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nLAGA
+ RDE Guillaume\nPLACE Thomas\nZEITOUN Marc\nA29/ Salle 107\n38-43\,45-50\
+ nSalle TD avec ID 1604891\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604877:12@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261113T161500
+DTEND;TZID=Europe/Paris:20261113T181500
+SUMMARY:4TIN914U Logic and languages - Cours/TD
+LOCATION:Bâtiment A21
+DESCRIPTION:Cours/TD\n4TIN914U Logic and languages\n4TCY901S\n4TGL904S M2
+  Génie Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nLAGA
+ RDE Guillaume\nPLACE Thomas\nZEITOUN Marc\nA21/ Salle 155\n38-43\,45-50\
+ nSalle TD avec ID 1604891\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604877:13@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261120T161500
+DTEND;TZID=Europe/Paris:20261120T181500
+SUMMARY:4TIN914U Logic and languages - Cours/TD
+LOCATION:Bâtiment A21
+DESCRIPTION:Cours/TD\n4TIN914U Logic and languages\n4TCY901S\n4TGL904S M2
+  Génie Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nLAGA
+ RDE Guillaume\nPLACE Thomas\nZEITOUN Marc\nA21/ Salle 251\n38-43\,45-50\
+ nSalle TD avec ID 1604891\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604877:14@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261127T161500
+DTEND;TZID=Europe/Paris:20261127T181500
+SUMMARY:4TIN914U Logic and languages - Cours/TD
+LOCATION:Bâtiment A21
+DESCRIPTION:Cours/TD\n4TIN914U Logic and languages\n4TCY901S\n4TGL904S M2
+  Génie Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nLAGA
+ RDE Guillaume\nPLACE Thomas\nZEITOUN Marc\nA21/ Salle 253\n38-43\,45-50\
+ nSalle TD avec ID 1604891\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604877:15@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261204T161500
+DTEND;TZID=Europe/Paris:20261204T181500
+SUMMARY:4TIN914U Logic and languages - Cours/TD
+LOCATION:Bâtiment A29
+DESCRIPTION:Cours/TD\n4TIN914U Logic and languages\n4TCY901S\n4TGL904S M2
+  Génie Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nLAGA
+ RDE Guillaume\nPLACE Thomas\nZEITOUN Marc\nA29/ Amphithéâtre B\n38-43\
+ ,45-50\nSalle TD avec ID 1604891\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604877:16@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261211T161500
+DTEND;TZID=Europe/Paris:20261211T181500
+SUMMARY:4TIN914U Logic and languages - Cours/TD
+LOCATION:Bâtiment A21
+DESCRIPTION:Cours/TD\n4TIN914U Logic and languages\n4TCY901S\n4TGL904S M2
+  Génie Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nLAGA
+ RDE Guillaume\nPLACE Thomas\nZEITOUN Marc\nA21/ Salle 161\n38-43\,45-50\
+ nSalle TD avec ID 1604891\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604880:4@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20260914T110000
+DTEND;TZID=Europe/Paris:20260914T122000
+SUMMARY:4TIN918U Software verification - Cours/TD
+LOCATION:Bâtiment A28
+DESCRIPTION:Cours/TD\n4TIN918U Software verification\n4TCY901S\n4TVL904S 
+ M2 Algorithms\, Models and Verification\nLEROUX Jerome\nPENELLE Vincent\
+ nSUTRE Gregoire\nCREMI - Bât. A28 Salle 205\n38-43\,45-50\nAjout CSI
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604880:5@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20260921T110000
+DTEND;TZID=Europe/Paris:20260921T122000
+SUMMARY:4TIN918U Software verification - Cours/TD
+LOCATION:Bâtiment A28
+DESCRIPTION:Cours/TD\n4TIN918U Software verification\n4TCY901S\n4TVL904S 
+ M2 Algorithms\, Models and Verification\nLEROUX Jerome\nPENELLE Vincent\
+ nSUTRE Gregoire\nCREMI - Bât. A28 Salle 205\n38-43\,45-50\nAjout CSI
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604880:6@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20260928T110000
+DTEND;TZID=Europe/Paris:20260928T122000
+SUMMARY:4TIN918U Software verification - Cours/TD
+LOCATION:Bâtiment A28
+DESCRIPTION:Cours/TD\n4TIN918U Software verification\n4TCY901S\n4TVL904S 
+ M2 Algorithms\, Models and Verification\nLEROUX Jerome\nPENELLE Vincent\
+ nSUTRE Gregoire\nCREMI - Bât. A28 Salle 205\n38-43\,45-50\nAjout CSI
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604880:7@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261005T110000
+DTEND;TZID=Europe/Paris:20261005T122000
+SUMMARY:4TIN918U Software verification - Cours/TD
+LOCATION:Bâtiment A28
+DESCRIPTION:Cours/TD\n4TIN918U Software verification\n4TCY901S\n4TVL904S 
+ M2 Algorithms\, Models and Verification\nLEROUX Jerome\nPENELLE Vincent\
+ nSUTRE Gregoire\nCREMI - Bât. A28 Salle 205\n38-43\,45-50\nAjout CSI
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604880:8@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261012T110000
+DTEND;TZID=Europe/Paris:20261012T122000
+SUMMARY:4TIN918U Software verification - Cours/TD
+LOCATION:Bâtiment A28
+DESCRIPTION:Cours/TD\n4TIN918U Software verification\n4TCY901S\n4TVL904S 
+ M2 Algorithms\, Models and Verification\nLEROUX Jerome\nPENELLE Vincent\
+ nSUTRE Gregoire\nCREMI - Bât. A28 Salle 205\n38-43\,45-50\nAjout CSI
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604880:9@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261019T110000
+DTEND;TZID=Europe/Paris:20261019T122000
+SUMMARY:4TIN918U Software verification - Cours/TD
+LOCATION:Bâtiment A28
+DESCRIPTION:Cours/TD\n4TIN918U Software verification\n4TCY901S\n4TVL904S 
+ M2 Algorithms\, Models and Verification\nLEROUX Jerome\nPENELLE Vincent\
+ nSUTRE Gregoire\nCREMI - Bât. A28 Salle 205\n38-43\,45-50\nAjout CSI
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604880:11@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261102T110000
+DTEND;TZID=Europe/Paris:20261102T122000
+SUMMARY:4TIN918U Software verification - Cours/TD
+LOCATION:Bâtiment A28
+DESCRIPTION:Cours/TD\n4TIN918U Software verification\n4TCY901S\n4TVL904S 
+ M2 Algorithms\, Models and Verification\nLEROUX Jerome\nPENELLE Vincent\
+ nSUTRE Gregoire\nCREMI - Bât. A28 Salle 205\n38-43\,45-50\nAjout CSI
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604880:12@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261109T110000
+DTEND;TZID=Europe/Paris:20261109T122000
+SUMMARY:4TIN918U Software verification - Cours/TD
+LOCATION:Bâtiment A28
+DESCRIPTION:Cours/TD\n4TIN918U Software verification\n4TCY901S\n4TVL904S 
+ M2 Algorithms\, Models and Verification\nLEROUX Jerome\nPENELLE Vincent\
+ nSUTRE Gregoire\nCREMI - Bât. A28 Salle 205\n38-43\,45-50\nAjout CSI
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604880:13@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261116T110000
+DTEND;TZID=Europe/Paris:20261116T122000
+SUMMARY:4TIN918U Software verification - Cours/TD
+LOCATION:Bâtiment A28
+DESCRIPTION:Cours/TD\n4TIN918U Software verification\n4TCY901S\n4TVL904S 
+ M2 Algorithms\, Models and Verification\nLEROUX Jerome\nPENELLE Vincent\
+ nSUTRE Gregoire\nCREMI - Bât. A28 Salle 205\n38-43\,45-50\nAjout CSI
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604880:14@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261123T110000
+DTEND;TZID=Europe/Paris:20261123T122000
+SUMMARY:4TIN918U Software verification - Cours/TD
+LOCATION:Bâtiment A28
+DESCRIPTION:Cours/TD\n4TIN918U Software verification\n4TCY901S\n4TVL904S 
+ M2 Algorithms\, Models and Verification\nLEROUX Jerome\nPENELLE Vincent\
+ nSUTRE Gregoire\nCREMI - Bât. A28 Salle 205\n38-43\,45-50\nAjout CSI
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604880:15@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261130T110000
+DTEND;TZID=Europe/Paris:20261130T122000
+SUMMARY:4TIN918U Software verification - Cours/TD
+LOCATION:Bâtiment A28
+DESCRIPTION:Cours/TD\n4TIN918U Software verification\n4TCY901S\n4TVL904S 
+ M2 Algorithms\, Models and Verification\nLEROUX Jerome\nPENELLE Vincent\
+ nSUTRE Gregoire\nCREMI - Bât. A28 Salle 205\n38-43\,45-50\nAjout CSI
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604880:16@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261207T110000
+DTEND;TZID=Europe/Paris:20261207T122000
+SUMMARY:4TIN918U Software verification - Cours/TD
+LOCATION:Bâtiment A28
+DESCRIPTION:Cours/TD\n4TIN918U Software verification\n4TCY901S\n4TVL904S 
+ M2 Algorithms\, Models and Verification\nLEROUX Jerome\nPENELLE Vincent\
+ nSUTRE Gregoire\nCREMI - Bât. A28 Salle 205\n38-43\,45-50\nAjout CSI
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604891:4@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20260918T140000
+DTEND;TZID=Europe/Paris:20260918T160000
+SUMMARY:4TIN914U Logic and languages - Cours/TD
+LOCATION:Bâtiment A22
+DESCRIPTION:Cours/TD\n4TIN914U Logic and languages\n4TCY901S\n4TGL904S M2
+  Génie Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nLAGA
+ RDE Guillaume\nPLACE Thomas\nZEITOUN Marc\nA22 / Salle 96\n38-43\,45-50\
+ nSalle TDi avec Id 1604877\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604891:5@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20260925T140000
+DTEND;TZID=Europe/Paris:20260925T160000
+SUMMARY:4TIN914U Logic and languages - Cours/TD
+LOCATION:Bâtiment A22
+DESCRIPTION:Cours/TD\n4TIN914U Logic and languages\n4TCY901S\n4TGL904S M2
+  Génie Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nLAGA
+ RDE Guillaume\nPLACE Thomas\nZEITOUN Marc\nA22 / Salle 96\n38-43\,45-50\
+ nSalle TDi avec Id 1604877\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604891:6@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261002T140000
+DTEND;TZID=Europe/Paris:20261002T160000
+SUMMARY:4TIN914U Logic and languages - Cours/TD
+LOCATION:Bâtiment A22
+DESCRIPTION:Cours/TD\n4TIN914U Logic and languages\n4TCY901S\n4TGL904S M2
+  Génie Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nLAGA
+ RDE Guillaume\nPLACE Thomas\nZEITOUN Marc\nA22 / Salle 96\n38-43\,45-50\
+ nSalle TDi avec Id 1604877\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604891:7@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261009T140000
+DTEND;TZID=Europe/Paris:20261009T160000
+SUMMARY:4TIN914U Logic and languages - Cours/TD
+LOCATION:Bâtiment A22
+DESCRIPTION:Cours/TD\n4TIN914U Logic and languages\n4TCY901S\n4TGL904S M2
+  Génie Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nLAGA
+ RDE Guillaume\nPLACE Thomas\nZEITOUN Marc\nA22 / Salle 96\n38-43\,45-50\
+ nSalle TDi avec Id 1604877\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604891:8@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261016T140000
+DTEND;TZID=Europe/Paris:20261016T160000
+SUMMARY:4TIN914U Logic and languages - Cours/TD
+LOCATION:Bâtiment A22
+DESCRIPTION:Cours/TD\n4TIN914U Logic and languages\n4TCY901S\n4TGL904S M2
+  Génie Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nLAGA
+ RDE Guillaume\nPLACE Thomas\nZEITOUN Marc\nA22 / Salle 96\n38-43\,45-50\
+ nSalle TDi avec Id 1604877\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604891:9@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261023T140000
+DTEND;TZID=Europe/Paris:20261023T160000
+SUMMARY:4TIN914U Logic and languages - Cours/TD
+LOCATION:Bâtiment A21
+DESCRIPTION:Cours/TD\n4TIN914U Logic and languages\n4TCY901S\n4TGL904S M2
+  Génie Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nLAGA
+ RDE Guillaume\nPLACE Thomas\nZEITOUN Marc\nA21/ Salle 150\n38-43\,45-50\
+ nSalle TDi avec Id 1604877\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604891:11@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261106T140000
+DTEND;TZID=Europe/Paris:20261106T160000
+SUMMARY:4TIN914U Logic and languages - Cours/TD
+LOCATION:Bâtiment A29
+DESCRIPTION:Cours/TD\n4TIN914U Logic and languages\n4TCY901S\n4TGL904S M2
+  Génie Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nLAGA
+ RDE Guillaume\nPLACE Thomas\nZEITOUN Marc\nA29/ Salle 107\n38-43\,45-50\
+ nSalle TDi avec Id 1604877\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604891:12@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261113T140000
+DTEND;TZID=Europe/Paris:20261113T160000
+SUMMARY:4TIN914U Logic and languages - Cours/TD
+LOCATION:Bâtiment A21
+DESCRIPTION:Cours/TD\n4TIN914U Logic and languages\n4TCY901S\n4TGL904S M2
+  Génie Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nLAGA
+ RDE Guillaume\nPLACE Thomas\nZEITOUN Marc\nA21/ Salle 155\n38-43\,45-50\
+ nSalle TDi avec Id 1604877\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604891:13@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261120T140000
+DTEND;TZID=Europe/Paris:20261120T160000
+SUMMARY:4TIN914U Logic and languages - Cours/TD
+LOCATION:Bâtiment A21
+DESCRIPTION:Cours/TD\n4TIN914U Logic and languages\n4TCY901S\n4TGL904S M2
+  Génie Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nLAGA
+ RDE Guillaume\nPLACE Thomas\nZEITOUN Marc\nA21/ Salle 251\n38-43\,45-50\
+ nSalle TDi avec Id 1604877\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604891:14@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261127T140000
+DTEND;TZID=Europe/Paris:20261127T160000
+SUMMARY:4TIN914U Logic and languages - Cours/TD
+LOCATION:Bâtiment A21
+DESCRIPTION:Cours/TD\n4TIN914U Logic and languages\n4TCY901S\n4TGL904S M2
+  Génie Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nLAGA
+ RDE Guillaume\nPLACE Thomas\nZEITOUN Marc\nA21/ Salle 253\n38-43\,45-50\
+ nSalle TDi avec Id 1604877\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604891:15@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261204T140000
+DTEND;TZID=Europe/Paris:20261204T160000
+SUMMARY:4TIN914U Logic and languages - Cours/TD
+LOCATION:Bâtiment A29
+DESCRIPTION:Cours/TD\n4TIN914U Logic and languages\n4TCY901S\n4TGL904S M2
+  Génie Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nLAGA
+ RDE Guillaume\nPLACE Thomas\nZEITOUN Marc\nA29/ Amphithéâtre B\n38-43\
+ ,45-50\nSalle TDi avec Id 1604877\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604891:16@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261211T140000
+DTEND;TZID=Europe/Paris:20261211T160000
+SUMMARY:4TIN914U Logic and languages - Cours/TD
+LOCATION:Bâtiment A21
+DESCRIPTION:Cours/TD\n4TIN914U Logic and languages\n4TCY901S\n4TGL904S M2
+  Génie Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nLAGA
+ RDE Guillaume\nPLACE Thomas\nZEITOUN Marc\nA21/ Salle 161\n38-43\,45-50\
+ nSalle TDi avec Id 1604877\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1615029:4@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20260917T080000
+DTEND;TZID=Europe/Paris:20260917T100000
+SUMMARY:4TIN915U Applied algorithmics - TD Machine
+LOCATION:Bâtiment A28
+DESCRIPTION:TD Machine\n4TIN915U Applied algorithmics\n4TGL904S M2 Génie
+  Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nEn Attente 
+ Enseignant\nCREMI - Bât. A28 Salle 008\n38-43\,45-46\,48-51\nGL Option\
+ nSalle CREMI avec ID 1615045
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1615029:5@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20260924T080000
+DTEND;TZID=Europe/Paris:20260924T100000
+SUMMARY:4TIN915U Applied algorithmics - TD Machine
+LOCATION:Bâtiment A28
+DESCRIPTION:TD Machine\n4TIN915U Applied algorithmics\n4TGL904S M2 Génie
+  Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nEn Attente 
+ Enseignant\nCREMI - Bât. A28 Salle 008\n38-43\,45-46\,48-51\nGL Option\
+ nSalle CREMI avec ID 1615045
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1615029:6@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261001T080000
+DTEND;TZID=Europe/Paris:20261001T100000
+SUMMARY:4TIN915U Applied algorithmics - TD Machine
+LOCATION:Bâtiment A28
+DESCRIPTION:TD Machine\n4TIN915U Applied algorithmics\n4TGL904S M2 Génie
+  Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nEn Attente 
+ Enseignant\nCREMI - Bât. A28 Salle 008\n38-43\,45-46\,48-51\nGL Option\
+ nSalle CREMI avec ID 1615045
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1615029:7@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261008T080000
+DTEND;TZID=Europe/Paris:20261008T100000
+SUMMARY:4TIN915U Applied algorithmics - TD Machine
+LOCATION:Bâtiment A28
+DESCRIPTION:TD Machine\n4TIN915U Applied algorithmics\n4TGL904S M2 Génie
+  Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nEn Attente 
+ Enseignant\nCREMI - Bât. A28 Salle 008\n38-43\,45-46\,48-51\nGL Option\
+ nSalle CREMI avec ID 1615045
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1615029:8@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261015T080000
+DTEND;TZID=Europe/Paris:20261015T100000
+SUMMARY:4TIN915U Applied algorithmics - TD Machine
+LOCATION:Bâtiment A28
+DESCRIPTION:TD Machine\n4TIN915U Applied algorithmics\n4TGL904S M2 Génie
+  Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nEn Attente 
+ Enseignant\nCREMI - Bât. A28 Salle 008\n38-43\,45-46\,48-51\nGL Option\
+ nSalle CREMI avec ID 1615045
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1615029:9@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261022T080000
+DTEND;TZID=Europe/Paris:20261022T100000
+SUMMARY:4TIN915U Applied algorithmics - TD Machine
+LOCATION:Bâtiment A28
+DESCRIPTION:TD Machine\n4TIN915U Applied algorithmics\n4TGL904S M2 Génie
+  Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nEn Attente 
+ Enseignant\nCREMI - Bât. A28 Salle 008\n38-43\,45-46\,48-51\nGL Option\
+ nSalle CREMI avec ID 1615045
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1615029:11@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261105T080000
+DTEND;TZID=Europe/Paris:20261105T100000
+SUMMARY:4TIN915U Applied algorithmics - TD Machine
+LOCATION:Bâtiment A28
+DESCRIPTION:TD Machine\n4TIN915U Applied algorithmics\n4TGL904S M2 Génie
+  Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nEn Attente 
+ Enseignant\nCREMI - Bât. A28 Salle 008\n38-43\,45-46\,48-51\nGL Option\
+ nSalle CREMI avec ID 1615045
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1615029:12@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261112T080000
+DTEND;TZID=Europe/Paris:20261112T100000
+SUMMARY:4TIN915U Applied algorithmics - TD Machine
+LOCATION:Bâtiment A28
+DESCRIPTION:TD Machine\n4TIN915U Applied algorithmics\n4TGL904S M2 Génie
+  Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nEn Attente 
+ Enseignant\nCREMI - Bât. A28 Salle 008\n38-43\,45-46\,48-51\nGL Option\
+ nSalle CREMI avec ID 1615045
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1615029:14@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261126T080000
+DTEND;TZID=Europe/Paris:20261126T100000
+SUMMARY:4TIN915U Applied algorithmics - TD Machine
+LOCATION:Bâtiment A28
+DESCRIPTION:TD Machine\n4TIN915U Applied algorithmics\n4TGL904S M2 Génie
+  Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nEn Attente 
+ Enseignant\nCREMI - Bât. A28 Salle 008\n38-43\,45-46\,48-51\nGL Option\
+ nSalle CREMI avec ID 1615045
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1615029:15@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261203T080000
+DTEND;TZID=Europe/Paris:20261203T100000
+SUMMARY:4TIN915U Applied algorithmics - TD Machine
+LOCATION:Bâtiment A28
+DESCRIPTION:TD Machine\n4TIN915U Applied algorithmics\n4TGL904S M2 Génie
+  Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nEn Attente 
+ Enseignant\nCREMI - Bât. A28 Salle 008\n38-43\,45-46\,48-51\nGL Option\
+ nSalle CREMI avec ID 1615045
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1615029:16@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261210T080000
+DTEND;TZID=Europe/Paris:20261210T100000
+SUMMARY:4TIN915U Applied algorithmics - TD Machine
+LOCATION:Bâtiment A28
+DESCRIPTION:TD Machine\n4TIN915U Applied algorithmics\n4TGL904S M2 Génie
+  Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nEn Attente 
+ Enseignant\nCREMI - Bât. A28 Salle 008\n38-43\,45-46\,48-51\nGL Option\
+ nSalle CREMI avec ID 1615045
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1615029:17@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261217T080000
+DTEND;TZID=Europe/Paris:20261217T100000
+SUMMARY:4TIN915U Applied algorithmics - TD Machine
+LOCATION:Bâtiment A28
+DESCRIPTION:TD Machine\n4TIN915U Applied algorithmics\n4TGL904S M2 Génie
+  Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nEn Attente 
+ Enseignant\nCREMI - Bât. A28 Salle 008\n38-43\,45-46\,48-51\nGL Option\
+ nSalle CREMI avec ID 1615045
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1626938:3@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20260910T101500
+DTEND;TZID=Europe/Paris:20260910T121500
+SUMMARY:4TIN915U Applied algorithmics - Cours
+LOCATION:Bâtiment A29
+DESCRIPTION:Cours\n4TIN915U Applied algorithmics\n4TGL904S M2 Génie Logi
+ ciel\n4TVL904S M2 Algorithms\, Models and Verification\nGAVOILLE Cyril\n
+ A29/ Salle 106\n37-43\,45-46\,48-49\nSalle TD avec ID 1604871\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1626938:4@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20260917T101500
+DTEND;TZID=Europe/Paris:20260917T121500
+SUMMARY:4TIN915U Applied algorithmics - Cours
+LOCATION:Bâtiment A29
+DESCRIPTION:Cours\n4TIN915U Applied algorithmics\n4TGL904S M2 Génie Logi
+ ciel\n4TVL904S M2 Algorithms\, Models and Verification\nGAVOILLE Cyril\n
+ A29/ Salle 103\n37-43\,45-46\,48-49\nSalle TD avec ID 1604871\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1626938:5@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20260924T101500
+DTEND;TZID=Europe/Paris:20260924T121500
+SUMMARY:4TIN915U Applied algorithmics - Cours
+LOCATION:Bâtiment A29
+DESCRIPTION:Cours\n4TIN915U Applied algorithmics\n4TGL904S M2 Génie Logi
+ ciel\n4TVL904S M2 Algorithms\, Models and Verification\nGAVOILLE Cyril\n
+ A29/ Salle 105\n37-43\,45-46\,48-49\nSalle TD avec ID 1604871\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1626938:6@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261001T101500
+DTEND;TZID=Europe/Paris:20261001T121500
+SUMMARY:4TIN915U Applied algorithmics - Cours
+LOCATION:Bâtiment A29
+DESCRIPTION:Cours\n4TIN915U Applied algorithmics\n4TGL904S M2 Génie Logi
+ ciel\n4TVL904S M2 Algorithms\, Models and Verification\nGAVOILLE Cyril\n
+ A29/ Salle 104\n37-43\,45-46\,48-49\nSalle TD avec ID 1604871\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1626938:7@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261008T101500
+DTEND;TZID=Europe/Paris:20261008T121500
+SUMMARY:4TIN915U Applied algorithmics - Cours
+LOCATION:Bâtiment A29
+DESCRIPTION:Cours\n4TIN915U Applied algorithmics\n4TGL904S M2 Génie Logi
+ ciel\n4TVL904S M2 Algorithms\, Models and Verification\nGAVOILLE Cyril\n
+ A29/ Salle 105\n37-43\,45-46\,48-49\nSalle TD avec ID 1604871\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1626938:8@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261015T101500
+DTEND;TZID=Europe/Paris:20261015T121500
+SUMMARY:4TIN915U Applied algorithmics - Cours
+LOCATION:Bâtiment A29
+DESCRIPTION:Cours\n4TIN915U Applied algorithmics\n4TGL904S M2 Génie Logi
+ ciel\n4TVL904S M2 Algorithms\, Models and Verification\nGAVOILLE Cyril\n
+ A29/ Salle 102\n37-43\,45-46\,48-49\nSalle TD avec ID 1604871\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1626938:9@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261022T101500
+DTEND;TZID=Europe/Paris:20261022T121500
+SUMMARY:4TIN915U Applied algorithmics - Cours
+LOCATION:Bâtiment A29
+DESCRIPTION:Cours\n4TIN915U Applied algorithmics\n4TGL904S M2 Génie Logi
+ ciel\n4TVL904S M2 Algorithms\, Models and Verification\nGAVOILLE Cyril\n
+ A29/ Amphithéâtre B\n37-43\,45-46\,48-49\nSalle TD avec ID 1604871\nGL
+  Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1626938:11@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261105T101500
+DTEND;TZID=Europe/Paris:20261105T121500
+SUMMARY:4TIN915U Applied algorithmics - Cours
+LOCATION:Bâtiment A29
+DESCRIPTION:Cours\n4TIN915U Applied algorithmics\n4TGL904S M2 Génie Logi
+ ciel\n4TVL904S M2 Algorithms\, Models and Verification\nGAVOILLE Cyril\n
+ A29/ Salle 102\n37-43\,45-46\,48-49\nSalle TD avec ID 1604871\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1626938:12@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261112T101500
+DTEND;TZID=Europe/Paris:20261112T121500
+SUMMARY:4TIN915U Applied algorithmics - Cours
+LOCATION:Bâtiment A29
+DESCRIPTION:Cours\n4TIN915U Applied algorithmics\n4TGL904S M2 Génie Logi
+ ciel\n4TVL904S M2 Algorithms\, Models and Verification\nGAVOILLE Cyril\n
+ A29/ Salle 102\n37-43\,45-46\,48-49\nSalle TD avec ID 1604871\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1626938:14@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261126T101500
+DTEND;TZID=Europe/Paris:20261126T121500
+SUMMARY:4TIN915U Applied algorithmics - Cours
+LOCATION:Bâtiment A21
+DESCRIPTION:Cours\n4TIN915U Applied algorithmics\n4TGL904S M2 Génie Logi
+ ciel\n4TVL904S M2 Algorithms\, Models and Verification\nGAVOILLE Cyril\n
+ A21/ Salle 405\n37-43\,45-46\,48-49\nSalle TD avec ID 1604871\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1626938:15@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261203T101500
+DTEND;TZID=Europe/Paris:20261203T121500
+SUMMARY:4TIN915U Applied algorithmics - Cours
+LOCATION:Bâtiment A29
+DESCRIPTION:Cours\n4TIN915U Applied algorithmics\n4TGL904S M2 Génie Logi
+ ciel\n4TVL904S M2 Algorithms\, Models and Verification\nGAVOILLE Cyril\n
+ A29/ Salle 102\n37-43\,45-46\,48-49\nSalle TD avec ID 1604871\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1632296:5@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20260924T124500
+DTEND;TZID=Europe/Paris:20260924T134500
+SUMMARY:4TIN901U - Séminaire
+DESCRIPTION:Séminaire\n4TIN901U Lecture d'articles et documentation scie
+ ntifique\n4TIN925U NUMERICS I\n4TCI902S CISD\n4TGL904S M2 Génie Logicie
+ l\n4TIA901S M2 Intelligence artificielle\n4TIS904S M2 Informatique pour 
+ l'Image et le Son\n4TSD901S ASPIC\n4TVL904S M2 Algorithms\, Models and V
+ erification\nLaBRI - Bât A30\n39-43\,45-50\nAmphi du LaBRI
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1632296:6@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261001T124500
+DTEND;TZID=Europe/Paris:20261001T134500
+SUMMARY:4TIN901U - Séminaire
+DESCRIPTION:Séminaire\n4TIN901U Lecture d'articles et documentation scie
+ ntifique\n4TIN925U NUMERICS I\n4TCI902S CISD\n4TGL904S M2 Génie Logicie
+ l\n4TIA901S M2 Intelligence artificielle\n4TIS904S M2 Informatique pour 
+ l'Image et le Son\n4TSD901S ASPIC\n4TVL904S M2 Algorithms\, Models and V
+ erification\nLaBRI - Bât A30\n39-43\,45-50\nAmphi du LaBRI
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1632296:7@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261008T124500
+DTEND;TZID=Europe/Paris:20261008T134500
+SUMMARY:4TIN901U - Séminaire
+DESCRIPTION:Séminaire\n4TIN901U Lecture d'articles et documentation scie
+ ntifique\n4TIN925U NUMERICS I\n4TCI902S CISD\n4TGL904S M2 Génie Logicie
+ l\n4TIA901S M2 Intelligence artificielle\n4TIS904S M2 Informatique pour 
+ l'Image et le Son\n4TSD901S ASPIC\n4TVL904S M2 Algorithms\, Models and V
+ erification\nLaBRI - Bât A30\n39-43\,45-50\nAmphi du LaBRI
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1632296:8@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261015T124500
+DTEND;TZID=Europe/Paris:20261015T134500
+SUMMARY:4TIN901U - Séminaire
+DESCRIPTION:Séminaire\n4TIN901U Lecture d'articles et documentation scie
+ ntifique\n4TIN925U NUMERICS I\n4TCI902S CISD\n4TGL904S M2 Génie Logicie
+ l\n4TIA901S M2 Intelligence artificielle\n4TIS904S M2 Informatique pour 
+ l'Image et le Son\n4TSD901S ASPIC\n4TVL904S M2 Algorithms\, Models and V
+ erification\nLaBRI - Bât A30\n39-43\,45-50\nAmphi du LaBRI
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1632296:9@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261022T124500
+DTEND;TZID=Europe/Paris:20261022T134500
+SUMMARY:4TIN901U - Séminaire
+DESCRIPTION:Séminaire\n4TIN901U Lecture d'articles et documentation scie
+ ntifique\n4TIN925U NUMERICS I\n4TCI902S CISD\n4TGL904S M2 Génie Logicie
+ l\n4TIA901S M2 Intelligence artificielle\n4TIS904S M2 Informatique pour 
+ l'Image et le Son\n4TSD901S ASPIC\n4TVL904S M2 Algorithms\, Models and V
+ erification\nLaBRI - Bât A30\n39-43\,45-50\nAmphi du LaBRI
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1632296:11@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261105T124500
+DTEND;TZID=Europe/Paris:20261105T134500
+SUMMARY:4TIN901U - Séminaire
+DESCRIPTION:Séminaire\n4TIN901U Lecture d'articles et documentation scie
+ ntifique\n4TIN925U NUMERICS I\n4TCI902S CISD\n4TGL904S M2 Génie Logicie
+ l\n4TIA901S M2 Intelligence artificielle\n4TIS904S M2 Informatique pour 
+ l'Image et le Son\n4TSD901S ASPIC\n4TVL904S M2 Algorithms\, Models and V
+ erification\nLaBRI - Bât A30\n39-43\,45-50\nAmphi du LaBRI
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1632296:12@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261112T124500
+DTEND;TZID=Europe/Paris:20261112T134500
+SUMMARY:4TIN901U - Séminaire
+DESCRIPTION:Séminaire\n4TIN901U Lecture d'articles et documentation scie
+ ntifique\n4TIN925U NUMERICS I\n4TCI902S CISD\n4TGL904S M2 Génie Logicie
+ l\n4TIA901S M2 Intelligence artificielle\n4TIS904S M2 Informatique pour 
+ l'Image et le Son\n4TSD901S ASPIC\n4TVL904S M2 Algorithms\, Models and V
+ erification\nLaBRI - Bât A30\n39-43\,45-50\nAmphi du LaBRI
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1632296:13@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261119T124500
+DTEND;TZID=Europe/Paris:20261119T134500
+SUMMARY:4TIN901U - Séminaire
+DESCRIPTION:Séminaire\n4TIN901U Lecture d'articles et documentation scie
+ ntifique\n4TIN925U NUMERICS I\n4TCI902S CISD\n4TGL904S M2 Génie Logicie
+ l\n4TIA901S M2 Intelligence artificielle\n4TIS904S M2 Informatique pour 
+ l'Image et le Son\n4TSD901S ASPIC\n4TVL904S M2 Algorithms\, Models and V
+ erification\nLaBRI - Bât A30\n39-43\,45-50\nAmphi du LaBRI
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1632296:14@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261126T124500
+DTEND;TZID=Europe/Paris:20261126T134500
+SUMMARY:4TIN901U - Séminaire
+DESCRIPTION:Séminaire\n4TIN901U Lecture d'articles et documentation scie
+ ntifique\n4TIN925U NUMERICS I\n4TCI902S CISD\n4TGL904S M2 Génie Logicie
+ l\n4TIA901S M2 Intelligence artificielle\n4TIS904S M2 Informatique pour 
+ l'Image et le Son\n4TSD901S ASPIC\n4TVL904S M2 Algorithms\, Models and V
+ erification\nLaBRI - Bât A30\n39-43\,45-50\nAmphi du LaBRI
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1632296:15@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261203T124500
+DTEND;TZID=Europe/Paris:20261203T134500
+SUMMARY:4TIN901U - Séminaire
+DESCRIPTION:Séminaire\n4TIN901U Lecture d'articles et documentation scie
+ ntifique\n4TIN925U NUMERICS I\n4TCI902S CISD\n4TGL904S M2 Génie Logicie
+ l\n4TIA901S M2 Intelligence artificielle\n4TIS904S M2 Informatique pour 
+ l'Image et le Son\n4TSD901S ASPIC\n4TVL904S M2 Algorithms\, Models and V
+ erification\nLaBRI - Bât A30\n39-43\,45-50\nAmphi du LaBRI
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1632296:16@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261210T124500
+DTEND;TZID=Europe/Paris:20261210T134500
+SUMMARY:4TIN901U - Séminaire
+DESCRIPTION:Séminaire\n4TIN901U Lecture d'articles et documentation scie
+ ntifique\n4TIN925U NUMERICS I\n4TCI902S CISD\n4TGL904S M2 Génie Logicie
+ l\n4TIA901S M2 Intelligence artificielle\n4TIS904S M2 Informatique pour 
+ l'Image et le Son\n4TSD901S ASPIC\n4TVL904S M2 Algorithms\, Models and V
+ erification\nLaBRI - Bât A30\n39-43\,45-50\nAmphi du LaBRI
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1633374:3@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20260910T140000
+DTEND;TZID=Europe/Paris:20260910T160000
+SUMMARY:4TIN917U Advanced graph theory - Cours/TD
+LOCATION:Bâtiment A29
+DESCRIPTION:Cours/TD\n4TIN917U Advanced graph theory\n4TGL904S M2 Génie 
+ Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nKARDOS Frant
+ isek\nA29/ Amphithéâtre A\n37-43\,45-46\,48-50\nSalle TD avec ID 16333
+ 77\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1633374:4@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20260917T140000
+DTEND;TZID=Europe/Paris:20260917T160000
+SUMMARY:4TIN917U Advanced graph theory - Cours/TD
+LOCATION:Bâtiment A33
+DESCRIPTION:Cours/TD\n4TIN917U Advanced graph theory\n4TGL904S M2 Génie 
+ Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nKARDOS Frant
+ isek\nA33/ Grand Amphithéâtre de Mathématiques\n37-43\,45-46\,48-50\n
+ Salle TD avec ID 1633377\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1633374:5@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20260924T140000
+DTEND;TZID=Europe/Paris:20260924T160000
+SUMMARY:4TIN917U Advanced graph theory - Cours/TD
+LOCATION:Bâtiment A9
+DESCRIPTION:Cours/TD\n4TIN917U Advanced graph theory\n4TGL904S M2 Génie 
+ Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nKARDOS Frant
+ isek\nA9.a / Amphithéâtre 2\n37-43\,45-46\,48-50\nSalle TD avec ID 163
+ 3377\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1633374:6@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261001T140000
+DTEND;TZID=Europe/Paris:20261001T160000
+SUMMARY:4TIN917U Advanced graph theory - Cours/TD
+LOCATION:Bâtiment B5
+DESCRIPTION:Cours/TD\n4TIN917U Advanced graph theory\n4TGL904S M2 Génie 
+ Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nKARDOS Frant
+ isek\nB5/Amphithéâtre GABA\n37-43\,45-46\,48-50\nSalle TD avec ID 1633
+ 377\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1633374:7@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261008T140000
+DTEND;TZID=Europe/Paris:20261008T160000
+SUMMARY:4TIN917U Advanced graph theory - Cours/TD
+LOCATION:Bâtiment A9
+DESCRIPTION:Cours/TD\n4TIN917U Advanced graph theory\n4TGL904S M2 Génie 
+ Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nKARDOS Frant
+ isek\nA9.a / Amphithéâtre 3\n37-43\,45-46\,48-50\nSalle TD avec ID 163
+ 3377\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1633374:8@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261015T140000
+DTEND;TZID=Europe/Paris:20261015T160000
+SUMMARY:4TIN917U Advanced graph theory - Cours/TD
+LOCATION:Bâtiment A33
+DESCRIPTION:Cours/TD\n4TIN917U Advanced graph theory\n4TGL904S M2 Génie 
+ Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nKARDOS Frant
+ isek\nA33/ Grand Amphithéâtre de Mathématiques\n37-43\,45-46\,48-50\n
+ Salle TD avec ID 1633377\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1633374:9@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261022T140000
+DTEND;TZID=Europe/Paris:20261022T160000
+SUMMARY:4TIN917U Advanced graph theory - Cours/TD
+LOCATION:Bâtiment A9
+DESCRIPTION:Cours/TD\n4TIN917U Advanced graph theory\n4TGL904S M2 Génie 
+ Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nKARDOS Frant
+ isek\nA9.a / Amphithéâtre 3\n37-43\,45-46\,48-50\nSalle TD avec ID 163
+ 3377\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1633374:11@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261105T140000
+DTEND;TZID=Europe/Paris:20261105T160000
+SUMMARY:4TIN917U Advanced graph theory - Cours/TD
+LOCATION:Bâtiment A29
+DESCRIPTION:Cours/TD\n4TIN917U Advanced graph theory\n4TGL904S M2 Génie 
+ Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nKARDOS Frant
+ isek\nA29/ Amphithéâtre F\n37-43\,45-46\,48-50\nSalle TD avec ID 16333
+ 77\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1633374:12@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261112T140000
+DTEND;TZID=Europe/Paris:20261112T160000
+SUMMARY:4TIN917U Advanced graph theory - Cours/TD
+LOCATION:Bâtiment A29
+DESCRIPTION:Cours/TD\n4TIN917U Advanced graph theory\n4TGL904S M2 Génie 
+ Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nKARDOS Frant
+ isek\nA29/ Amphithéâtre F\n37-43\,45-46\,48-50\nSalle TD avec ID 16333
+ 77\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1633374:14@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261126T140000
+DTEND;TZID=Europe/Paris:20261126T160000
+SUMMARY:4TIN917U Advanced graph theory - Cours/TD
+LOCATION:Bâtiment A21
+DESCRIPTION:Cours/TD\n4TIN917U Advanced graph theory\n4TGL904S M2 Génie 
+ Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nKARDOS Frant
+ isek\nA21/ Salle 302\n37-43\,45-46\,48-50\nSalle TD avec ID 1633377\nGL 
+ Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1633374:15@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261203T140000
+DTEND;TZID=Europe/Paris:20261203T160000
+SUMMARY:4TIN917U Advanced graph theory - Cours/TD
+LOCATION:Bâtiment A29
+DESCRIPTION:Cours/TD\n4TIN917U Advanced graph theory\n4TGL904S M2 Génie 
+ Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nKARDOS Frant
+ isek\nA29/ Amphithéâtre F\n37-43\,45-46\,48-50\nSalle TD avec ID 16333
+ 77\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1633374:16@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261210T140000
+DTEND;TZID=Europe/Paris:20261210T160000
+SUMMARY:4TIN917U Advanced graph theory - Cours/TD
+LOCATION:Bâtiment A29
+DESCRIPTION:Cours/TD\n4TIN917U Advanced graph theory\n4TGL904S M2 Génie 
+ Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nKARDOS Frant
+ isek\nA29/ Amphithéâtre F\n37-43\,45-46\,48-50\nSalle TD avec ID 16333
+ 77\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1633869:4@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20260916T093000
+DTEND;TZID=Europe/Paris:20260916T122000
+SUMMARY:4TIN918U Software verification - Cours/TD
+LOCATION:Bâtiment A28
+DESCRIPTION:Cours/TD\n4TIN918U Software verification\n4TCY901S\n4TVL904S 
+ M2 Algorithms\, Models and Verification\nLEROUX Jerome\nPENELLE Vincent\
+ nSUTRE Gregoire\nCREMI - Bât. A28 Salle 207\n38-43\,45\,47-51
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1633869:5@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20260923T093000
+DTEND;TZID=Europe/Paris:20260923T122000
+SUMMARY:4TIN918U Software verification - Cours/TD
+LOCATION:Bâtiment A28
+DESCRIPTION:Cours/TD\n4TIN918U Software verification\n4TCY901S\n4TVL904S 
+ M2 Algorithms\, Models and Verification\nLEROUX Jerome\nPENELLE Vincent\
+ nSUTRE Gregoire\nCREMI - Bât. A28 Salle 207\n38-43\,45\,47-51
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1633869:6@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20260930T093000
+DTEND;TZID=Europe/Paris:20260930T122000
+SUMMARY:4TIN918U Software verification - Cours/TD
+LOCATION:Bâtiment A28
+DESCRIPTION:Cours/TD\n4TIN918U Software verification\n4TCY901S\n4TVL904S 
+ M2 Algorithms\, Models and Verification\nLEROUX Jerome\nPENELLE Vincent\
+ nSUTRE Gregoire\nCREMI - Bât. A28 Salle 207\n38-43\,45\,47-51
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1633869:7@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261007T093000
+DTEND;TZID=Europe/Paris:20261007T122000
+SUMMARY:4TIN918U Software verification - Cours/TD
+LOCATION:Bâtiment A28
+DESCRIPTION:Cours/TD\n4TIN918U Software verification\n4TCY901S\n4TVL904S 
+ M2 Algorithms\, Models and Verification\nLEROUX Jerome\nPENELLE Vincent\
+ nSUTRE Gregoire\nCREMI - Bât. A28 Salle 207\n38-43\,45\,47-51
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1633869:8@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261014T093000
+DTEND;TZID=Europe/Paris:20261014T122000
+SUMMARY:4TIN918U Software verification - Cours/TD
+LOCATION:Bâtiment A28
+DESCRIPTION:Cours/TD\n4TIN918U Software verification\n4TCY901S\n4TVL904S 
+ M2 Algorithms\, Models and Verification\nLEROUX Jerome\nPENELLE Vincent\
+ nSUTRE Gregoire\nCREMI - Bât. A28 Salle 207\n38-43\,45\,47-51
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1633869:9@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261021T093000
+DTEND;TZID=Europe/Paris:20261021T122000
+SUMMARY:4TIN918U Software verification - Cours/TD
+LOCATION:Bâtiment A28
+DESCRIPTION:Cours/TD\n4TIN918U Software verification\n4TCY901S\n4TVL904S 
+ M2 Algorithms\, Models and Verification\nLEROUX Jerome\nPENELLE Vincent\
+ nSUTRE Gregoire\nCREMI - Bât. A28 Salle 207\n38-43\,45\,47-51
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1633869:11@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261104T093000
+DTEND;TZID=Europe/Paris:20261104T122000
+SUMMARY:4TIN918U Software verification - Cours/TD
+LOCATION:Bâtiment A28
+DESCRIPTION:Cours/TD\n4TIN918U Software verification\n4TCY901S\n4TVL904S 
+ M2 Algorithms\, Models and Verification\nLEROUX Jerome\nPENELLE Vincent\
+ nSUTRE Gregoire\nCREMI - Bât. A28 Salle 207\n38-43\,45\,47-51
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1633869:13@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261118T093000
+DTEND;TZID=Europe/Paris:20261118T122000
+SUMMARY:4TIN918U Software verification - Cours/TD
+LOCATION:Bâtiment A28
+DESCRIPTION:Cours/TD\n4TIN918U Software verification\n4TCY901S\n4TVL904S 
+ M2 Algorithms\, Models and Verification\nLEROUX Jerome\nPENELLE Vincent\
+ nSUTRE Gregoire\nCREMI - Bât. A28 Salle 207\n38-43\,45\,47-51
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1633869:14@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261125T093000
+DTEND;TZID=Europe/Paris:20261125T122000
+SUMMARY:4TIN918U Software verification - Cours/TD
+LOCATION:Bâtiment A28
+DESCRIPTION:Cours/TD\n4TIN918U Software verification\n4TCY901S\n4TVL904S 
+ M2 Algorithms\, Models and Verification\nLEROUX Jerome\nPENELLE Vincent\
+ nSUTRE Gregoire\nCREMI - Bât. A28 Salle 207\n38-43\,45\,47-51
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1633869:15@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261202T093000
+DTEND;TZID=Europe/Paris:20261202T122000
+SUMMARY:4TIN918U Software verification - Cours/TD
+LOCATION:Bâtiment A28
+DESCRIPTION:Cours/TD\n4TIN918U Software verification\n4TCY901S\n4TVL904S 
+ M2 Algorithms\, Models and Verification\nLEROUX Jerome\nPENELLE Vincent\
+ nSUTRE Gregoire\nCREMI - Bât. A28 Salle 207\n38-43\,45\,47-51
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1633869:16@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261209T093000
+DTEND;TZID=Europe/Paris:20261209T122000
+SUMMARY:4TIN918U Software verification - Cours/TD
+LOCATION:Bâtiment A28
+DESCRIPTION:Cours/TD\n4TIN918U Software verification\n4TCY901S\n4TVL904S 
+ M2 Algorithms\, Models and Verification\nLEROUX Jerome\nPENELLE Vincent\
+ nSUTRE Gregoire\nCREMI - Bât. A28 Salle 207\n38-43\,45\,47-51
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1633869:17@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261216T093000
+DTEND;TZID=Europe/Paris:20261216T122000
+SUMMARY:4TIN918U Software verification - Cours/TD
+LOCATION:Bâtiment A28
+DESCRIPTION:Cours/TD\n4TIN918U Software verification\n4TCY901S\n4TVL904S 
+ M2 Algorithms\, Models and Verification\nLEROUX Jerome\nPENELLE Vincent\
+ nSUTRE Gregoire\nCREMI - Bât. A28 Salle 207\n38-43\,45\,47-51
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1643213:4@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20260914T140000
+DTEND;TZID=Europe/Paris:20260914T160000
+SUMMARY:4TIN921U Informatique quantique - Cours/TD
+LOCATION:Bâtiment A21
+DESCRIPTION:Cours/TD\n4TIN921U Informatique quantique\n4TGL904S M2 Génie
+  Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nTANASA Nico
+ lae\nA21/ Salle 406\n38-43\,45-47\,49-50\nSalle TD avec ID 1604731\nGL O
+ ption
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1643213:5@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20260921T140000
+DTEND;TZID=Europe/Paris:20260921T160000
+SUMMARY:4TIN921U Informatique quantique - Cours/TD
+LOCATION:Bâtiment A21
+DESCRIPTION:Cours/TD\n4TIN921U Informatique quantique\n4TGL904S M2 Génie
+  Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nTANASA Nico
+ lae\nA21/ Salle 151\n38-43\,45-47\,49-50\nSalle TD avec ID 1604731\nGL O
+ ption
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1643213:6@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20260928T140000
+DTEND;TZID=Europe/Paris:20260928T160000
+SUMMARY:4TIN921U Informatique quantique - Cours/TD
+LOCATION:Bâtiment A21
+DESCRIPTION:Cours/TD\n4TIN921U Informatique quantique\n4TGL904S M2 Génie
+  Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nTANASA Nico
+ lae\nA21/ Salle 161\n38-43\,45-47\,49-50\nSalle TD avec ID 1604731\nGL O
+ ption
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1643213:7@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261005T140000
+DTEND;TZID=Europe/Paris:20261005T160000
+SUMMARY:4TIN921U Informatique quantique - Cours/TD
+DESCRIPTION:Cours/TD\n4TIN921U Informatique quantique\n4TGL904S M2 Génie
+  Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nTANASA Nico
+ lae\n38-43\,45-47\,49-50\nSalle TD avec ID 1604731\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1643213:8@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261012T140000
+DTEND;TZID=Europe/Paris:20261012T160000
+SUMMARY:4TIN921U Informatique quantique - Cours/TD
+LOCATION:Bâtiment A21
+DESCRIPTION:Cours/TD\n4TIN921U Informatique quantique\n4TGL904S M2 Génie
+  Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nDARTOIS St
+ éphane\nA21/ Salle 152\n38-43\,45-47\,49-50\nSalle TD avec ID 1604731\n
+ GL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1643213:9@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261019T140000
+DTEND;TZID=Europe/Paris:20261019T160000
+SUMMARY:4TIN921U Informatique quantique - Cours/TD
+LOCATION:Bâtiment A21
+DESCRIPTION:Cours/TD\n4TIN921U Informatique quantique\n4TGL904S M2 Génie
+  Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nDARTOIS St
+ éphane\nA21/ Salle 152\n38-43\,45-47\,49-50\nSalle TD avec ID 1604731\n
+ GL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1643213:11@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261102T140000
+DTEND;TZID=Europe/Paris:20261102T160000
+SUMMARY:4TIN921U Informatique quantique - Cours/TD
+LOCATION:Bâtiment A21
+DESCRIPTION:Cours/TD\n4TIN921U Informatique quantique\n4TGL904S M2 Génie
+  Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nDARTOIS St
+ éphane\nA21/ Salle 156\n38-43\,45-47\,49-50\nSalle TD avec ID 1604731\n
+ GL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1643213:12@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261109T140000
+DTEND;TZID=Europe/Paris:20261109T160000
+SUMMARY:4TIN921U Informatique quantique - Cours/TD
+LOCATION:Bâtiment A9
+DESCRIPTION:Cours/TD\n4TIN921U Informatique quantique\n4TGL904S M2 Génie
+  Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nDARTOIS St
+ éphane\nA9.b / Salle 004\n38-43\,45-47\,49-50\nSalle TD avec ID 1604731
+ \nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1643213:13@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261116T140000
+DTEND;TZID=Europe/Paris:20261116T160000
+SUMMARY:4TIN921U Informatique quantique - Cours/TD
+LOCATION:Bâtiment A22
+DESCRIPTION:Cours/TD\n4TIN921U Informatique quantique\n4TGL904S M2 Génie
+  Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nDARTOIS St
+ éphane\nA22/ Salle 119\n38-43\,45-47\,49-50\nSalle TD avec ID 1604731\n
+ GL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1643213:15@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261130T140000
+DTEND;TZID=Europe/Paris:20261130T160000
+SUMMARY:4TIN921U Informatique quantique - Cours/TD
+LOCATION:Bâtiment A28
+DESCRIPTION:Cours/TD\n4TIN921U Informatique quantique\n4TGL904S M2 Génie
+  Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nCHAUMETTE S
+ erge\nCREMI - Bât. A28 Salle 104\n38-43\,45-47\,49-50\nSalle TD avec ID
+  1604731\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1643213:16@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261207T140000
+DTEND;TZID=Europe/Paris:20261207T160000
+SUMMARY:4TIN921U Informatique quantique - Cours/TD
+LOCATION:Bâtiment A29
+DESCRIPTION:Cours/TD\n4TIN921U Informatique quantique\n4TGL904S M2 Génie
+  Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nTANASA Nico
+ lae\nA29/ Salle 104\n38-43\,45-47\,49-50\nSalle TD avec ID 1604731\nGL O
+ ption
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1604411:13@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261119T080000
+DTEND;TZID=Europe/Paris:20261119T080000
+SUMMARY:Journée Entreprises - Journée Entreprises
+DESCRIPTION:Journée Entreprises\n4TAH501S\n4TCI902S CISD\n4TGL904S M2 G
+ énie Logiciel\n4TIA901S M2 Intelligence artificielle\n4TIN702S\n4TIS904
+ S M2 Informatique pour l'Image et le Son\n4TSD901S ASPIC\n4TVL904S M2 Al
+ gorithms\, Models and Verification\n4TYE701S\n4TYE901S\n(1 more...)\nCAT
+ APOULE KICHENASSAMY Agastya\n47\n-----------------\nlocaux à détermine
+ r\n------------------\nJournée Entreprises UF Informatique\nL3 MIAGE\, 
+ M1 et M2 MIAGE : Journée banalisée\nM2 Informatique : Journée banalis
+ ée\nLPro ADSSILLH et M...
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1626937:16@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261210T110000
+DTEND;TZID=Europe/Paris:20261210T130000
+SUMMARY:4TIN915U Applied algorithmics - Cours
+LOCATION:Bâtiment A29
+DESCRIPTION:Cours\n4TIN915U Applied algorithmics\n4TGL904S M2 Génie Logi
+ ciel\n4TVL904S M2 Algorithms\, Models and Verification\nGAVOILLE Cyril\n
+ A29/ Salle 101\n50
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1642515:15@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261130T161500
+DTEND;TZID=Europe/Paris:20261130T181500
+SUMMARY:4TIN921U Informatique quantique - Cours/TD
+LOCATION:Bâtiment A28
+DESCRIPTION:Cours/TD\n4TIN921U Informatique quantique\n4TGL904S M2 Génie
+  Logiciel\n4TVL904S M2 Algorithms\, Models and Verification\nCHAUMETTE S
+ erge\nCREMI - Bât. A28 Salle 104\n49\nGL Option
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566894:10@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261026T080000
+DTEND;TZID=Europe/Paris:20261026T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n44
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566901:18@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261221T080000
+DTEND;TZID=Europe/Paris:20261221T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n52-53
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566901:19@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261228T080000
+DTEND;TZID=Europe/Paris:20261228T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n52-53
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566908:27@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20270222T080000
+DTEND;TZID=Europe/Paris:20270222T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n8
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566915:35@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20270419T080000
+DTEND;TZID=Europe/Paris:20270419T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n16
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566923:32@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20270329T080000
+DTEND;TZID=Europe/Paris:20270329T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n13
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566925:39@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20270517T080000
+DTEND;TZID=Europe/Paris:20270517T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n20
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566895:10@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261027T080000
+DTEND;TZID=Europe/Paris:20261027T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n44
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566902:18@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261222T080000
+DTEND;TZID=Europe/Paris:20261222T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n52-53
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566902:19@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261229T080000
+DTEND;TZID=Europe/Paris:20261229T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n52-53
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566909:27@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20270223T080000
+DTEND;TZID=Europe/Paris:20270223T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n8
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566916:35@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20270420T080000
+DTEND;TZID=Europe/Paris:20270420T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n16
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566896:10@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261028T080000
+DTEND;TZID=Europe/Paris:20261028T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n44
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566903:18@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261223T080000
+DTEND;TZID=Europe/Paris:20261223T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n52-53
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566903:19@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261230T080000
+DTEND;TZID=Europe/Paris:20261230T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n52-53
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566910:27@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20270224T080000
+DTEND;TZID=Europe/Paris:20270224T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n8
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566917:35@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20270421T080000
+DTEND;TZID=Europe/Paris:20270421T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n16
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566922:12@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261111T080000
+DTEND;TZID=Europe/Paris:20261111T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n46
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566926:47@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20270714T080000
+DTEND;TZID=Europe/Paris:20270714T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n28
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566897:10@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261029T080000
+DTEND;TZID=Europe/Paris:20261029T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n44
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566904:18@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261224T080000
+DTEND;TZID=Europe/Paris:20261224T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n52-53
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566904:19@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261231T080000
+DTEND;TZID=Europe/Paris:20261231T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n52-53
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566911:27@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20270225T080000
+DTEND;TZID=Europe/Paris:20270225T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n8
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566918:35@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20270422T080000
+DTEND;TZID=Europe/Paris:20270422T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n16
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566924:37@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20270506T080000
+DTEND;TZID=Europe/Paris:20270506T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n18
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566898:10@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261030T080000
+DTEND;TZID=Europe/Paris:20261030T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n44
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566905:18@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261225T080000
+DTEND;TZID=Europe/Paris:20261225T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n52-53
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566905:19@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20270101T080000
+DTEND;TZID=Europe/Paris:20270101T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n52-53
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566912:27@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20270226T080000
+DTEND;TZID=Europe/Paris:20270226T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n8
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566919:35@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20270423T080000
+DTEND;TZID=Europe/Paris:20270423T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n16
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566899:10@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261031T080000
+DTEND;TZID=Europe/Paris:20261031T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n44
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566906:18@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261226T080000
+DTEND;TZID=Europe/Paris:20261226T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n52-53
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566906:19@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20270102T080000
+DTEND;TZID=Europe/Paris:20270102T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n52-53
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566913:27@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20270227T080000
+DTEND;TZID=Europe/Paris:20270227T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n8
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566920:35@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20270424T080000
+DTEND;TZID=Europe/Paris:20270424T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n16
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566900:10@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261101T080000
+DTEND;TZID=Europe/Paris:20261101T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n44
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566907:18@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20261227T080000
+DTEND;TZID=Europe/Paris:20261227T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n52-53
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566907:19@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20270103T080000
+DTEND;TZID=Europe/Paris:20270103T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n52-53
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566914:27@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20270228T080000
+DTEND;TZID=Europe/Paris:20270228T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n8
+END:VEVENT
+BEGIN:VEVENT
+UID:-390114417:-1395446921:7:1566921:35@celcat.u-bordeaux.fr
+DTSTAMP:20260831T203115Z
+DTSTART;TZID=Europe/Paris:20270425T080000
+DTEND;TZID=Europe/Paris:20270425T080000
+SUMMARY:Vacances - Vacances
+DESCRIPTION:Vacances\n16
+END:VEVENT
+END:VCALENDAR
