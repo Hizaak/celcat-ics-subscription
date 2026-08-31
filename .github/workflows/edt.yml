@@ -2,8 +2,10 @@ name: Mise a jour EDT
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
+    - cron: "0 6 * * *"    # 07h00 en ete
+    - cron: "30 11 * * *"  # 12h30 en ete
+    - cron: "0 20 * * *"   # 22h00 en ete
+  workflow_dispatch:         # bouton manuel
 
 permissions:
   contents: write
@@ -22,6 +24,7 @@ jobs:
         run: |
           python celcat_ics.py \
             --group "4TVL904S M2 Algorithms, Models and Verification" \
+            --exclude "4TIN914U" \
             --start 2026-09-01 \
             --end 2027-07-31 \
             -o edt.ics
