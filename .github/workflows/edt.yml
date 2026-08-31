@@ -27,12 +27,12 @@ jobs:
             --exclude "4TIN914U" \
             --start 2026-09-01 \
             --end 2027-07-31 \
-            -o edt.ics
+            -o calendar.ics
 
       - name: Commiter si changement
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add edt.ics
+          git add calendar.ics
           git diff --staged --quiet || git commit -m "MAJ EDT $(date -u +%F\ %H:%M)"
           git push
