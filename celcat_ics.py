@@ -123,8 +123,8 @@ def parse_fields(fields, group, category=""):
     return info
 
 
-def build_ics(events, calname):
-    stamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+def build_ics(events, calname, exclude=()):
+    exclude = [e.strip().lower() for e in exclude if e.strip()]
     lines = [
         "BEGIN:VCALENDAR",
         "VERSION:2.0",
@@ -154,6 +154,11 @@ def build_ics(events, calname):
             title = category or "Cours"
         summary = title if not category or category == title else f"{title} — {category}"
 
+        # Modules explicitement ecartes (--exclude), par code ou par nom.
+        haystack = f"{info['module'] or ''} {title}".lower()
+        if any(x in haystack for x in exclude):
+            continue
+
         location = info["room"] or ", ".join(s for s in (ev.get("sites") or []) if s)
 
         desc = []
@@ -169,6 +174,10 @@ def build_ics(events, calname):
 
         uid_seed = f"{ev.get('id','')}|{ev['start']}|{title}"
         uid = hashlib.sha1(uid_seed.encode("utf-8")).hexdigest()
+
+        # DTSTAMP deterministe : sinon le fichier change a chaque run
+        # et le workflow commite toutes les 6 h pour rien.
+        stamp = to_utc(ev["start"])
 
         lines.append("BEGIN:VEVENT")
         lines.append(f"UID:{uid}@celcat.u-bordeaux.fr")
@@ -201,6 +210,8 @@ def main():
     ap.add_argument("--start", default="2026-09-01")
     ap.add_argument("--end", default="2027-07-31")
     ap.add_argument("-o", "--output", default="edt.ics")
+    ap.add_argument("--exclude", action="append", default=[],
+                    help="module a ignorer (code ou nom, repetable)")
     args = ap.parse_args()
 
     events = fetch_events(args.group, args.start, args.end)
@@ -208,7 +219,7 @@ def main():
     if not events:
         print("Aucun evenement: verifie le nom exact du groupe.", file=sys.stderr)
 
-    ics = build_ics(events, args.group)
+    ics = build_ics(events, args.group, args.exclude)
     with open(args.output, "w", encoding="utf-8", newline="") as f:
         f.write(ics)
     print(f"Ecrit dans {args.output}", file=sys.stderr)
