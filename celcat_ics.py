@@ -69,7 +69,7 @@ def clean(raw):
     """Le champ description est du HTML avec des <br /> comme separateurs."""
     if not raw:
         return []
-    parts = re.split(r"<br\s*/?>", raw, flags=re.I)
+    parts = re.split(r"<br\s*/?>|\r\n|\r|\n", raw, flags=re.I)
     out = []
     for p in parts:
         p = html.unescape(re.sub(r"<[^>]+>", "", p)).strip()
@@ -84,6 +84,9 @@ def to_local(naive_str):
 
 
 def esc(text):
+    # CELCAT glisse parfois des CR/LF bruts dans ses descriptions ;
+    # un retour chariot nu dans une valeur casse les parseurs stricts.
+    text = text.replace("\r\n", "\n").replace("\r", "\n")
     return (
         text.replace("\\", "\\\\")
         .replace(";", "\\;")
