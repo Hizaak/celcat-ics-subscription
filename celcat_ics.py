@@ -14,7 +14,7 @@ import re
 import sys
 import urllib.parse
 import urllib.request
-from datetime import datetime, timedelta, timezone
+from datetime import datetime
 from zoneinfo import ZoneInfo
 
 BASE = "https://celcat.u-bordeaux.fr/calendar"
@@ -149,8 +149,6 @@ def build_ics(events, calname, exclude=()):
         "METHOD:PUBLISH",
         f"X-WR-CALNAME:{esc(calname)}",
         "X-WR-TIMEZONE:Europe/Paris",
-        "X-PUBLISHED-TTL:PT1H",
-        "REFRESH-INTERVAL;VALUE=DURATION:PT1H",
         VTIMEZONE.replace("\n", "\r\n"),
     ]
 
@@ -164,12 +162,12 @@ def build_ics(events, calname, exclude=()):
         # Titre : nom du module sans son code, + type de seance.
         title = ""
         if info["module"]:
-            title = CODE_RE.sub("", info["module"]).strip(" -–")
+            title = CODE_RE.sub("", info["module"]).strip(" -")
         if not title and info["other"]:
             title = info["other"][0]
         if not title:
             title = category or "Cours"
-        summary = title if not category or category == title else f"{title} — {category}"
+        summary = title if not category or category == title else f"{title} - {category}"
 
         # Modules explicitement ecartes (--exclude), par code ou par nom.
         haystack = f"{info['module'] or ''} {title}".lower()
@@ -199,17 +197,9 @@ def build_ics(events, calname, exclude=()):
         lines.append("BEGIN:VEVENT")
         lines.append(f"UID:{uid}@celcat.u-bordeaux.fr")
         lines.append(f"DTSTAMP:{stamp}")
-        if ev.get("allDay"):
-            d0 = datetime.fromisoformat(ev["start"]).date()
-            d1 = datetime.fromisoformat(ev["end"]).date() if ev.get("end") else d0
-            if d1 <= d0:
-                d1 = d0
-            lines.append(f"DTSTART;VALUE=DATE:{d0.strftime('%Y%m%d')}")
-            lines.append(f"DTEND;VALUE=DATE:{(d1 + timedelta(days=1)).strftime('%Y%m%d')}")
-        else:
-            lines.append(f"DTSTART;TZID=Europe/Paris:{to_local(ev['start'])}")
-            end = ev.get("end") or ev["start"]
-            lines.append(f"DTEND;TZID=Europe/Paris:{to_local(end)}")
+        lines.append(f"DTSTART;TZID=Europe/Paris:{to_local(ev['start'])}")
+        end = ev.get("end") or ev["start"]
+        lines.append(f"DTEND;TZID=Europe/Paris:{to_local(end)}")
         lines.append(fold(f"SUMMARY:{esc(summary)}"))
         if location:
             lines.append(fold(f"LOCATION:{esc(location)}"))
