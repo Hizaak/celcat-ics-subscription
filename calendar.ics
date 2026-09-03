@@ -565,117 +565,6 @@ DESCRIPTION:4TIN915U Applied algorithmics\nCREMI - Bât. A28 Salle 008\,
  e Logiciel\nEn Attente Enseignant
 END:VEVENT
 BEGIN:VEVENT
-UID:932d5aad0a76b6eb6bd3c52c6248f7149a6b8b73@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20260910T101500
-DTEND;TZID=Europe/Paris:20260910T121500
-SUMMARY:Applied algorithmics - Cours
-LOCATION:A29 / Salle 106
-DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
- 9 / Salle 106\nSemaines 37-43\,45-46\,48-49\n4TGL904S M2 Génie Logiciel
-END:VEVENT
-BEGIN:VEVENT
-UID:bda5847ce94f00987b3fc64b9b1151d94b19ce2f@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20260917T101500
-DTEND;TZID=Europe/Paris:20260917T121500
-SUMMARY:Applied algorithmics - Cours
-LOCATION:A29 / Salle 103
-DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
- 9 / Salle 103\nSemaines 37-43\,45-46\,48-49\n4TGL904S M2 Génie Logiciel
-END:VEVENT
-BEGIN:VEVENT
-UID:6cc31f4a177a505a1f4f6a28e932a327e9429918@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20260924T101500
-DTEND;TZID=Europe/Paris:20260924T121500
-SUMMARY:Applied algorithmics - Cours
-LOCATION:A29 / Salle 105
-DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
- 9 / Salle 105\nSemaines 37-43\,45-46\,48-49\n4TGL904S M2 Génie Logiciel
-END:VEVENT
-BEGIN:VEVENT
-UID:68ba63a3af82441f8bf52485f2d90b276dba66dc@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261001T101500
-DTEND;TZID=Europe/Paris:20261001T121500
-SUMMARY:Applied algorithmics - Cours
-LOCATION:A29 / Salle 104
-DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
- 9 / Salle 104\nSemaines 37-43\,45-46\,48-49\n4TGL904S M2 Génie Logiciel
-END:VEVENT
-BEGIN:VEVENT
-UID:0fe7d6e739eedb32769309928308ecf85d65be13@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261008T101500
-DTEND;TZID=Europe/Paris:20261008T121500
-SUMMARY:Applied algorithmics - Cours
-LOCATION:A29 / Salle 105
-DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
- 9 / Salle 105\nSemaines 37-43\,45-46\,48-49\n4TGL904S M2 Génie Logiciel
-END:VEVENT
-BEGIN:VEVENT
-UID:361ec28d8671b15526653d3ceb487117318bbec0@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261015T101500
-DTEND;TZID=Europe/Paris:20261015T121500
-SUMMARY:Applied algorithmics - Cours
-LOCATION:A29 / Salle 102
-DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
- 9 / Salle 102\nSemaines 37-43\,45-46\,48-49\n4TGL904S M2 Génie Logiciel
-END:VEVENT
-BEGIN:VEVENT
-UID:286a7bda869a8f5ec40d4df5c5541859ee4b2382@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261022T101500
-DTEND;TZID=Europe/Paris:20261022T121500
-SUMMARY:Applied algorithmics - Cours
-LOCATION:A29 / Amphithéâtre B
-DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
- 9 / Amphithéâtre B\nSemaines 37-43\,45-46\,48-49\n4TGL904S M2 Génie Lo
- giciel
-END:VEVENT
-BEGIN:VEVENT
-UID:537f5321ebcae49b80b68aa2a8cfb027ad35ae29@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261105T101500
-DTEND;TZID=Europe/Paris:20261105T121500
-SUMMARY:Applied algorithmics - Cours
-LOCATION:A29 / Salle 102
-DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
- 9 / Salle 102\nSemaines 37-43\,45-46\,48-49\n4TGL904S M2 Génie Logiciel
-END:VEVENT
-BEGIN:VEVENT
-UID:981f21ea0fff7119817aaabf507024eae786e286@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261112T101500
-DTEND;TZID=Europe/Paris:20261112T121500
-SUMMARY:Applied algorithmics - Cours
-LOCATION:A29 / Salle 102
-DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
- 9 / Salle 102\nSemaines 37-43\,45-46\,48-49\n4TGL904S M2 Génie Logiciel
-END:VEVENT
-BEGIN:VEVENT
-UID:4b3a92a929efe122fd15140c20d60b7d46b7d61b@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261126T101500
-DTEND;TZID=Europe/Paris:20261126T121500
-SUMMARY:Applied algorithmics - Cours
-LOCATION:A21 / Salle 405
-DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
- 1 / Salle 405\nSemaines 37-43\,45-46\,48-49\n4TGL904S M2 Génie Logiciel
-END:VEVENT
-BEGIN:VEVENT
-UID:d8c7765e17bdaf2bfb8b8499568174b08293fc49@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261203T101500
-DTEND;TZID=Europe/Paris:20261203T121500
-SUMMARY:Applied algorithmics - Cours
-LOCATION:A29 / Salle 102
-DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
- 9 / Salle 102\nSemaines 37-43\,45-46\,48-49\n4TGL904S M2 Génie Logiciel
-END:VEVENT
-BEGIN:VEVENT
 UID:67cc82ad60389b8d49713b68df41dcfcbbf677a5@celcat.u-bordeaux.fr
 DTSTAMP:20200101T000000Z
 DTSTART;TZID=Europe/Paris:20260924T124500
@@ -806,138 +695,6 @@ DESCRIPTION:4TIN901U Lecture d'articles et documentation scientifique\nSe
  ie Logiciel\n4TIA901S M2 Intelligence artificielle\n4TIS904S M2 Informati
  que pour l'Image et le Son\n4TSD901S ASPIC\nLaBRI - Bât A30\nAmphi du La
  BRI
-END:VEVENT
-BEGIN:VEVENT
-UID:3553e8554f7b09d225992edfcbf244440246e109@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20260910T140000
-DTEND;TZID=Europe/Paris:20260910T160000
-SUMMARY:Advanced graph theory - Cours/TD
-LOCATION:A29 / Amphithéâtre A
-DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
- nA29 / Amphithéâtre A\nSemaines 37-43\,45-46\,48-50\n4TGL904S M2 Génie
-  Logiciel
-END:VEVENT
-BEGIN:VEVENT
-UID:d94822b00ea860c78ad2ec8e1a1d9b30946ad3a8@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20260917T140000
-DTEND;TZID=Europe/Paris:20260917T160000
-SUMMARY:Advanced graph theory - Cours/TD
-LOCATION:A33 / Grand Amphithéâtre de Mathématiques
-DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
- nA33 / Grand Amphithéâtre de Mathématiques\nSemaines 37-43\,45-46\,48-
- 50\n4TGL904S M2 Génie Logiciel
-END:VEVENT
-BEGIN:VEVENT
-UID:71f89e413ef66cd1a3423bd4dd7603eb0fe7982b@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20260924T140000
-DTEND;TZID=Europe/Paris:20260924T160000
-SUMMARY:Advanced graph theory - Cours/TD
-LOCATION:Bâtiment A9
-DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
- nBâtiment A9\nSemaines 37-43\,45-46\,48-50\n4TGL904S M2 Génie Logiciel\
- nA9.a / Amphithéâtre 2
-END:VEVENT
-BEGIN:VEVENT
-UID:78a9ecf7df7c536aa655075592680182a2076824@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261001T140000
-DTEND;TZID=Europe/Paris:20261001T160000
-SUMMARY:Advanced graph theory - Cours/TD
-LOCATION:B5 / Amphithéâtre GABA
-DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
- nB5 / Amphithéâtre GABA\nSemaines 37-43\,45-46\,48-50\n4TGL904S M2 Gén
- ie Logiciel
-END:VEVENT
-BEGIN:VEVENT
-UID:28657df680de3061b6f2b1ad0a0f4ceb96b2ed5a@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261008T140000
-DTEND;TZID=Europe/Paris:20261008T160000
-SUMMARY:Advanced graph theory - Cours/TD
-LOCATION:Bâtiment A9
-DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
- nBâtiment A9\nSemaines 37-43\,45-46\,48-50\n4TGL904S M2 Génie Logiciel\
- nA9.a / Amphithéâtre 3
-END:VEVENT
-BEGIN:VEVENT
-UID:fb68ee67a9516862916261a8a928cd7cb534b552@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261015T140000
-DTEND;TZID=Europe/Paris:20261015T160000
-SUMMARY:Advanced graph theory - Cours/TD
-LOCATION:A33 / Grand Amphithéâtre de Mathématiques
-DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
- nA33 / Grand Amphithéâtre de Mathématiques\nSemaines 37-43\,45-46\,48-
- 50\n4TGL904S M2 Génie Logiciel
-END:VEVENT
-BEGIN:VEVENT
-UID:2cf599b99e621da7696ee1d6bb435b2440ff2756@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261022T140000
-DTEND;TZID=Europe/Paris:20261022T160000
-SUMMARY:Advanced graph theory - Cours/TD
-LOCATION:Bâtiment A9
-DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
- nBâtiment A9\nSemaines 37-43\,45-46\,48-50\n4TGL904S M2 Génie Logiciel\
- nA9.a / Amphithéâtre 3
-END:VEVENT
-BEGIN:VEVENT
-UID:1d342643229a4d2084191e2445544076ebf5b15a@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261105T140000
-DTEND;TZID=Europe/Paris:20261105T160000
-SUMMARY:Advanced graph theory - Cours/TD
-LOCATION:A29 / Amphithéâtre F
-DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
- nA29 / Amphithéâtre F\nSemaines 37-43\,45-46\,48-50\n4TGL904S M2 Génie
-  Logiciel
-END:VEVENT
-BEGIN:VEVENT
-UID:26783e68f22ce08130f5e7d61847fa4332b7b6a6@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261112T140000
-DTEND;TZID=Europe/Paris:20261112T160000
-SUMMARY:Advanced graph theory - Cours/TD
-LOCATION:A29 / Amphithéâtre F
-DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
- nA29 / Amphithéâtre F\nSemaines 37-43\,45-46\,48-50\n4TGL904S M2 Génie
-  Logiciel
-END:VEVENT
-BEGIN:VEVENT
-UID:317f427c8c21518b13fdfa56203e14b9a795a605@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261126T140000
-DTEND;TZID=Europe/Paris:20261126T160000
-SUMMARY:Advanced graph theory - Cours/TD
-LOCATION:A21 / Salle 302
-DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
- nA21 / Salle 302\nSemaines 37-43\,45-46\,48-50\n4TGL904S M2 Génie Logici
- el
-END:VEVENT
-BEGIN:VEVENT
-UID:e9430c1169a7120f3d257309511ae5862b7b6693@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261203T140000
-DTEND;TZID=Europe/Paris:20261203T160000
-SUMMARY:Advanced graph theory - Cours/TD
-LOCATION:A29 / Amphithéâtre F
-DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
- nA29 / Amphithéâtre F\nSemaines 37-43\,45-46\,48-50\n4TGL904S M2 Génie
-  Logiciel
-END:VEVENT
-BEGIN:VEVENT
-UID:57f61ebd61bf541017f04cf3ad1745d8fe358617@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261210T140000
-DTEND;TZID=Europe/Paris:20261210T160000
-SUMMARY:Advanced graph theory - Cours/TD
-LOCATION:A29 / Amphithéâtre F
-DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
- nA29 / Amphithéâtre F\nSemaines 37-43\,45-46\,48-50\n4TGL904S M2 Génie
-  Logiciel
 END:VEVENT
 BEGIN:VEVENT
 UID:614483115a64aa750a216ddd30a22eb8e7fcb63f@celcat.u-bordeaux.fr
@@ -1309,6 +1066,238 @@ SUMMARY:Game synthesis & control - Cours/TD
 LOCATION:A29 / Salle 101
 DESCRIPTION:4TIN919U Game synthesis & control\nLAGARDE Guillaume\, MUSCHO
  LL Anca\nA29 / Salle 101\nSemaines 38-43\,45-50
+END:VEVENT
+BEGIN:VEVENT
+UID:e4a8c8f45dd0407d698c010450c6ebd48f2f6c53@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20260917T140000
+DTEND;TZID=Europe/Paris:20260917T160000
+SUMMARY:Advanced graph theory - Cours/TD
+LOCATION:A33 / Grand Amphithéâtre de Mathématiques
+DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
+ nA33 / Grand Amphithéâtre de Mathématiques\nSemaines 38-43\,45-46\,48-
+ 50\n4TGL904S M2 Génie Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:42383682c472c1f6adac2199492d07e08ba5502c@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20260924T140000
+DTEND;TZID=Europe/Paris:20260924T160000
+SUMMARY:Advanced graph theory - Cours/TD
+LOCATION:Bâtiment A9
+DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
+ nBâtiment A9\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Génie Logiciel\
+ nA9.a / Amphithéâtre 2
+END:VEVENT
+BEGIN:VEVENT
+UID:5954b10a9b63c2e300da1ea4f331170f58e55c11@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261001T140000
+DTEND;TZID=Europe/Paris:20261001T160000
+SUMMARY:Advanced graph theory - Cours/TD
+LOCATION:B5 / Amphithéâtre GABA
+DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
+ nB5 / Amphithéâtre GABA\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Gén
+ ie Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:004d31258f413fc3ed6bdd79bd7db2b0bea014d8@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261008T140000
+DTEND;TZID=Europe/Paris:20261008T160000
+SUMMARY:Advanced graph theory - Cours/TD
+LOCATION:Bâtiment A9
+DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
+ nBâtiment A9\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Génie Logiciel\
+ nA9.a / Amphithéâtre 3
+END:VEVENT
+BEGIN:VEVENT
+UID:ccba0659f1fc9308416d0a95ed9b772a7b4567ea@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261015T140000
+DTEND;TZID=Europe/Paris:20261015T160000
+SUMMARY:Advanced graph theory - Cours/TD
+LOCATION:A33 / Grand Amphithéâtre de Mathématiques
+DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
+ nA33 / Grand Amphithéâtre de Mathématiques\nSemaines 38-43\,45-46\,48-
+ 50\n4TGL904S M2 Génie Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:15bbf0f22ad3358ee0c681865955261ff81b86f2@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261022T140000
+DTEND;TZID=Europe/Paris:20261022T160000
+SUMMARY:Advanced graph theory - Cours/TD
+LOCATION:Bâtiment A9
+DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
+ nBâtiment A9\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Génie Logiciel\
+ nA9.a / Amphithéâtre 3
+END:VEVENT
+BEGIN:VEVENT
+UID:f909fc9bb25ca675225d0005c0c8763cc1b8a27b@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261105T140000
+DTEND;TZID=Europe/Paris:20261105T160000
+SUMMARY:Advanced graph theory - Cours/TD
+LOCATION:A29 / Amphithéâtre F
+DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
+ nA29 / Amphithéâtre F\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Génie
+  Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:10ec8cba0225ee1efcb6d4efb7388255182bb805@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261112T140000
+DTEND;TZID=Europe/Paris:20261112T160000
+SUMMARY:Advanced graph theory - Cours/TD
+LOCATION:A29 / Amphithéâtre F
+DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
+ nA29 / Amphithéâtre F\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Génie
+  Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:65bdf337ce2652cdef32cd7062cd4920c61bba18@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261126T140000
+DTEND;TZID=Europe/Paris:20261126T160000
+SUMMARY:Advanced graph theory - Cours/TD
+LOCATION:A21 / Salle 302
+DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
+ nA21 / Salle 302\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Génie Logici
+ el
+END:VEVENT
+BEGIN:VEVENT
+UID:4818dee1913461d657889a29769dc6e2f65fb3df@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261203T140000
+DTEND;TZID=Europe/Paris:20261203T160000
+SUMMARY:Advanced graph theory - Cours/TD
+LOCATION:A29 / Amphithéâtre F
+DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
+ nA29 / Amphithéâtre F\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Génie
+  Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:dfc5d24f8dd549ee25f110d5a3501ff3387c5a14@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261210T140000
+DTEND;TZID=Europe/Paris:20261210T160000
+SUMMARY:Advanced graph theory - Cours/TD
+LOCATION:A29 / Amphithéâtre F
+DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
+ nA29 / Amphithéâtre F\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Génie
+  Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:59b0ba42a5ebcbbb70c796c9dfb36567e781e718@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20260917T101500
+DTEND;TZID=Europe/Paris:20260917T121500
+SUMMARY:Applied algorithmics - Cours
+LOCATION:A29 / Salle 103
+DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
+ 9 / Salle 103\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Génie Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:5135e5b5f178bdbff35adae8d886ad4ae9fc40d0@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20260924T101500
+DTEND;TZID=Europe/Paris:20260924T121500
+SUMMARY:Applied algorithmics - Cours
+LOCATION:A29 / Salle 105
+DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
+ 9 / Salle 105\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Génie Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:589369ae979e6d4893f3f164bc51c3f96b177e64@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261001T101500
+DTEND;TZID=Europe/Paris:20261001T121500
+SUMMARY:Applied algorithmics - Cours
+LOCATION:A29 / Salle 104
+DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
+ 9 / Salle 104\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Génie Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:28b82b385486bf837001ae1a2bdbcf869fa7f1f6@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261008T101500
+DTEND;TZID=Europe/Paris:20261008T121500
+SUMMARY:Applied algorithmics - Cours
+LOCATION:A29 / Salle 105
+DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
+ 9 / Salle 105\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Génie Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:c25d40699f27209d0f779b7339a43f56b4dc79fd@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261015T101500
+DTEND;TZID=Europe/Paris:20261015T121500
+SUMMARY:Applied algorithmics - Cours
+LOCATION:A29 / Salle 102
+DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
+ 9 / Salle 102\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Génie Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:8526d65c72960bfacf5c17e78839f75b0191a606@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261022T101500
+DTEND;TZID=Europe/Paris:20261022T121500
+SUMMARY:Applied algorithmics - Cours
+LOCATION:A29 / Amphithéâtre B
+DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
+ 9 / Amphithéâtre B\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Génie Lo
+ giciel
+END:VEVENT
+BEGIN:VEVENT
+UID:63eea52d5882d298eccedcd82a39cab196057ae6@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261105T101500
+DTEND;TZID=Europe/Paris:20261105T121500
+SUMMARY:Applied algorithmics - Cours
+LOCATION:A29 / Salle 102
+DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
+ 9 / Salle 102\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Génie Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:71338746f2c856afd357be6bb8a032dc0d309054@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261112T101500
+DTEND;TZID=Europe/Paris:20261112T121500
+SUMMARY:Applied algorithmics - Cours
+LOCATION:A29 / Salle 102
+DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
+ 9 / Salle 102\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Génie Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:5553fc06a636b57d1f131ef4e228b20e843d653c@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261126T101500
+DTEND;TZID=Europe/Paris:20261126T121500
+SUMMARY:Applied algorithmics - Cours
+LOCATION:A21 / Salle 405
+DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
+ 1 / Salle 405\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Génie Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:4109632eacdaf66c054582a7378d9298bec18c04@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261203T101500
+DTEND;TZID=Europe/Paris:20261203T121500
+SUMMARY:Applied algorithmics - Cours
+LOCATION:A29 / Salle 102
+DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
+ 9 / Salle 102\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Génie Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb116978e1e2900336842c7ab29c94030cb5939@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261210T101500
+DTEND;TZID=Europe/Paris:20261210T121500
+SUMMARY:Applied algorithmics - Cours
+LOCATION:A29 / Salle 102
+DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
+ 9 / Salle 102\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Génie Logiciel
 END:VEVENT
 BEGIN:VEVENT
 UID:3b4d13fbf2c122a35fe7f706fff993772fd09103@celcat.u-bordeaux.fr
