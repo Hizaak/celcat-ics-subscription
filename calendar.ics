@@ -829,123 +829,123 @@ DESCRIPTION:4TIN918U Software verification\nLEROUX Jerome\, PENELLE Vince
  s 38-43\,45\,47-51\n4TCY901S
 END:VEVENT
 BEGIN:VEVENT
-UID:173bcd67198df84e5d16e65d7c8943a745f9a45a@celcat.u-bordeaux.fr
+UID:cc64d565f07e9a9ca956c79574bd66d993b94498@celcat.u-bordeaux.fr
 DTSTAMP:20200101T000000Z
 DTSTART;TZID=Europe/Paris:20260914T140000
 DTEND;TZID=Europe/Paris:20260914T160000
-SUMMARY:Informatique quantique - Cours/TD
+SUMMARY:Introduction to Quantum Computing - Cours/TD
 LOCATION:A21 / Salle 406
-DESCRIPTION:4TIN921U Informatique quantique\nTANASA Nicolae\, GL Option\n
- A21 / Salle 406\nSemaines 38-43\,45-47\,49-50\n4TGL904S M2 Génie Logicie
- l
+DESCRIPTION:4TIN929U Introduction to Quantum Computing\nTANASA Nicolae\, 
+ GL Option\nA21 / Salle 406\nSemaines 38-43\,45-47\,49-50\n4TGL904S M2 Gé
+ nie Logiciel
 END:VEVENT
 BEGIN:VEVENT
-UID:fc9b9a4aa071f5e95236ba74a4ab7d3931fa1644@celcat.u-bordeaux.fr
+UID:9c4747947917f7f76c2a8fe9ca18a3b430aad916@celcat.u-bordeaux.fr
 DTSTAMP:20200101T000000Z
 DTSTART;TZID=Europe/Paris:20260921T140000
 DTEND;TZID=Europe/Paris:20260921T160000
-SUMMARY:Informatique quantique - Cours/TD
+SUMMARY:Introduction to Quantum Computing - Cours/TD
 LOCATION:A21 / Salle 151
-DESCRIPTION:4TIN921U Informatique quantique\nTANASA Nicolae\, GL Option\n
- A21 / Salle 151\nSemaines 38-43\,45-47\,49-50\n4TGL904S M2 Génie Logicie
- l
+DESCRIPTION:4TIN929U Introduction to Quantum Computing\nTANASA Nicolae\, 
+ GL Option\nA21 / Salle 151\nSemaines 38-43\,45-47\,49-50\n4TGL904S M2 Gé
+ nie Logiciel
 END:VEVENT
 BEGIN:VEVENT
-UID:e0e86b371e1dfdd831d6e02a76c714b7f728630f@celcat.u-bordeaux.fr
+UID:4038e4573e3304e1477bbae87f9e6e825f6f4789@celcat.u-bordeaux.fr
 DTSTAMP:20200101T000000Z
 DTSTART;TZID=Europe/Paris:20260928T140000
 DTEND;TZID=Europe/Paris:20260928T160000
-SUMMARY:Informatique quantique - Cours/TD
+SUMMARY:Introduction to Quantum Computing - Cours/TD
 LOCATION:A21 / Salle 161
-DESCRIPTION:4TIN921U Informatique quantique\nTANASA Nicolae\, GL Option\n
- A21 / Salle 161\nSemaines 38-43\,45-47\,49-50\n4TGL904S M2 Génie Logicie
- l
+DESCRIPTION:4TIN929U Introduction to Quantum Computing\nTANASA Nicolae\, 
+ GL Option\nA21 / Salle 161\nSemaines 38-43\,45-47\,49-50\n4TGL904S M2 Gé
+ nie Logiciel
 END:VEVENT
 BEGIN:VEVENT
-UID:8bdb6bf90cf40ad8ab671acad7c10111b9bc236d@celcat.u-bordeaux.fr
+UID:072a89f87d8ceb69e5cb448ce3d809d7a541920b@celcat.u-bordeaux.fr
 DTSTAMP:20200101T000000Z
 DTSTART;TZID=Europe/Paris:20261005T140000
 DTEND;TZID=Europe/Paris:20261005T160000
-SUMMARY:Informatique quantique - Cours/TD
-DESCRIPTION:4TIN921U Informatique quantique\nTANASA Nicolae\, GL Option\n
- Semaines 38-43\,45-47\,49-50\n4TGL904S M2 Génie Logiciel
+SUMMARY:Introduction to Quantum Computing - Cours/TD
+DESCRIPTION:4TIN929U Introduction to Quantum Computing\nTANASA Nicolae\, 
+ GL Option\nSemaines 38-43\,45-47\,49-50\n4TGL904S M2 Génie Logiciel
 END:VEVENT
 BEGIN:VEVENT
-UID:d7d3b3b7973bd288389663a323faf830599c332e@celcat.u-bordeaux.fr
+UID:709a55de7a46578dfed224a3919708e325d846fa@celcat.u-bordeaux.fr
 DTSTAMP:20200101T000000Z
 DTSTART;TZID=Europe/Paris:20261012T140000
 DTEND;TZID=Europe/Paris:20261012T160000
-SUMMARY:Informatique quantique - Cours/TD
+SUMMARY:Introduction to Quantum Computing - Cours/TD
 LOCATION:A21 / Salle 152
-DESCRIPTION:4TIN921U Informatique quantique\nDARTOIS Stéphane\, GL Optio
- n\nA21 / Salle 152\nSemaines 38-43\,45-47\,49-50\n4TGL904S M2 Génie Logi
- ciel
+DESCRIPTION:4TIN929U Introduction to Quantum Computing\nDARTOIS Stéphane
+ \, GL Option\nA21 / Salle 152\nSemaines 38-43\,45-47\,49-50\n4TGL904S M2 
+ Génie Logiciel
 END:VEVENT
 BEGIN:VEVENT
-UID:67cc24a95f45a2d93c5b862d406befdcaab12274@celcat.u-bordeaux.fr
+UID:55bf7bb03d9baa65c02e5937eae3b28cf262691d@celcat.u-bordeaux.fr
 DTSTAMP:20200101T000000Z
 DTSTART;TZID=Europe/Paris:20261019T140000
 DTEND;TZID=Europe/Paris:20261019T160000
-SUMMARY:Informatique quantique - Cours/TD
+SUMMARY:Introduction to Quantum Computing - Cours/TD
 LOCATION:A21 / Salle 152
-DESCRIPTION:4TIN921U Informatique quantique\nDARTOIS Stéphane\, GL Optio
- n\nA21 / Salle 152\nSemaines 38-43\,45-47\,49-50\n4TGL904S M2 Génie Logi
- ciel
+DESCRIPTION:4TIN929U Introduction to Quantum Computing\nDARTOIS Stéphane
+ \, GL Option\nA21 / Salle 152\nSemaines 38-43\,45-47\,49-50\n4TGL904S M2 
+ Génie Logiciel
 END:VEVENT
 BEGIN:VEVENT
-UID:c74f29cc83ec144ffafc11e93344b4ced5004c86@celcat.u-bordeaux.fr
+UID:fee57bc865ca0fbd63da8e5f10ed54e7bcf690aa@celcat.u-bordeaux.fr
 DTSTAMP:20200101T000000Z
 DTSTART;TZID=Europe/Paris:20261102T140000
 DTEND;TZID=Europe/Paris:20261102T160000
-SUMMARY:Informatique quantique - Cours/TD
+SUMMARY:Introduction to Quantum Computing - Cours/TD
 LOCATION:A21 / Salle 156
-DESCRIPTION:4TIN921U Informatique quantique\nDARTOIS Stéphane\, GL Optio
- n\nA21 / Salle 156\nSemaines 38-43\,45-47\,49-50\n4TGL904S M2 Génie Logi
- ciel
+DESCRIPTION:4TIN929U Introduction to Quantum Computing\nDARTOIS Stéphane
+ \, GL Option\nA21 / Salle 156\nSemaines 38-43\,45-47\,49-50\n4TGL904S M2 
+ Génie Logiciel
 END:VEVENT
 BEGIN:VEVENT
-UID:ab067734cf0e7a82eb6644804ea12458b17d2129@celcat.u-bordeaux.fr
+UID:98c3b3d90edf10dd0ebc59ba87a1c4c81e310104@celcat.u-bordeaux.fr
 DTSTAMP:20200101T000000Z
 DTSTART;TZID=Europe/Paris:20261109T140000
 DTEND;TZID=Europe/Paris:20261109T160000
-SUMMARY:Informatique quantique - Cours/TD
+SUMMARY:Introduction to Quantum Computing - Cours/TD
 LOCATION:Bâtiment A9
-DESCRIPTION:4TIN921U Informatique quantique\nDARTOIS Stéphane\, GL Optio
- n\nBâtiment A9\nSemaines 38-43\,45-47\,49-50\n4TGL904S M2 Génie Logicie
- l\nA9.b / Salle 004
+DESCRIPTION:4TIN929U Introduction to Quantum Computing\nDARTOIS Stéphane
+ \, GL Option\nBâtiment A9\nSemaines 38-43\,45-47\,49-50\n4TGL904S M2 Gé
+ nie Logiciel\nA9.b / Salle 004
 END:VEVENT
 BEGIN:VEVENT
-UID:8a6674586d205e83dee594e476509934b919d45d@celcat.u-bordeaux.fr
+UID:8c318e53398a7dc40e34db46cfd98400cdc9fc62@celcat.u-bordeaux.fr
 DTSTAMP:20200101T000000Z
 DTSTART;TZID=Europe/Paris:20261116T140000
 DTEND;TZID=Europe/Paris:20261116T160000
-SUMMARY:Informatique quantique - Cours/TD
+SUMMARY:Introduction to Quantum Computing - Cours/TD
 LOCATION:A22 / Salle 119
-DESCRIPTION:4TIN921U Informatique quantique\nDARTOIS Stéphane\, GL Optio
- n\nA22 / Salle 119\nSemaines 38-43\,45-47\,49-50\n4TGL904S M2 Génie Logi
- ciel
+DESCRIPTION:4TIN929U Introduction to Quantum Computing\nDARTOIS Stéphane
+ \, GL Option\nA22 / Salle 119\nSemaines 38-43\,45-47\,49-50\n4TGL904S M2 
+ Génie Logiciel
 END:VEVENT
 BEGIN:VEVENT
-UID:81393aaac1de49d302a1bcde2cbc603f140030b4@celcat.u-bordeaux.fr
+UID:d9d268bf831e7a2a2d7575c4ebf1b4b424a75aa4@celcat.u-bordeaux.fr
 DTSTAMP:20200101T000000Z
 DTSTART;TZID=Europe/Paris:20261130T140000
 DTEND;TZID=Europe/Paris:20261130T160000
-SUMMARY:Informatique quantique - Cours/TD
+SUMMARY:Introduction to Quantum Computing - Cours/TD
 LOCATION:Bâtiment A28
-DESCRIPTION:4TIN921U Informatique quantique\nCHAUMETTE Serge\, CREMI - B
- ât. A28 Salle 104\, GL Option\nBâtiment A28\nSemaines 38-43\,45-47\,49-
- 50\n4TGL904S M2 Génie Logiciel
+DESCRIPTION:4TIN929U Introduction to Quantum Computing\nCHAUMETTE Serge\,
+  CREMI - Bât. A28 Salle 104\, GL Option\nBâtiment A28\nSemaines 38-43\,
+ 45-47\,49-50\n4TGL904S M2 Génie Logiciel
 END:VEVENT
 BEGIN:VEVENT
-UID:fc61279ccc8e9e8adcb2a73504e2781e35273a00@celcat.u-bordeaux.fr
+UID:e481f1aaabbe7f3f11a7ffc01edb436b1ae7935c@celcat.u-bordeaux.fr
 DTSTAMP:20200101T000000Z
 DTSTART;TZID=Europe/Paris:20261207T140000
 DTEND;TZID=Europe/Paris:20261207T160000
-SUMMARY:Informatique quantique - Cours/TD
+SUMMARY:Introduction to Quantum Computing - Cours/TD
 LOCATION:A29 / Salle 104
-DESCRIPTION:4TIN921U Informatique quantique\nTANASA Nicolae\, GL Option\n
- A29 / Salle 104\nSemaines 38-43\,45-47\,49-50\n4TGL904S M2 Génie Logicie
- l
+DESCRIPTION:4TIN929U Introduction to Quantum Computing\nTANASA Nicolae\, 
+ GL Option\nA29 / Salle 104\nSemaines 38-43\,45-47\,49-50\n4TGL904S M2 Gé
+ nie Logiciel
 END:VEVENT
 BEGIN:VEVENT
 UID:ae2c3be03636f5e0018affdd27c1b62bc8403f6d@celcat.u-bordeaux.fr
@@ -1324,15 +1324,15 @@ DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\nA29 / Salle 10
  1\nSemaines 50\n4TGL904S M2 Génie Logiciel
 END:VEVENT
 BEGIN:VEVENT
-UID:cd20b6437e2d2ae88d0a4daf46e28858ac4d6d2e@celcat.u-bordeaux.fr
+UID:ca6d7a29f8eea3ea040c80328b199bdec28f8a8d@celcat.u-bordeaux.fr
 DTSTAMP:20200101T000000Z
 DTSTART;TZID=Europe/Paris:20261130T161500
 DTEND;TZID=Europe/Paris:20261130T181500
-SUMMARY:Informatique quantique - Cours/TD
+SUMMARY:Introduction to Quantum Computing - Cours/TD
 LOCATION:Bâtiment A28
-DESCRIPTION:4TIN921U Informatique quantique\nCHAUMETTE Serge\, CREMI - B
- ât. A28 Salle 104\, GL Option\nBâtiment A28\nSemaines 49\n4TGL904S M2 G
- énie Logiciel
+DESCRIPTION:4TIN929U Introduction to Quantum Computing\nCHAUMETTE Serge\,
+  CREMI - Bât. A28 Salle 104\, GL Option\nBâtiment A28\nSemaines 49\n4TG
+ L904S M2 Génie Logiciel
 END:VEVENT
 BEGIN:VEVENT
 UID:661490c6e7658b66a7248dbf8fca28c113aab5e9@celcat.u-bordeaux.fr
