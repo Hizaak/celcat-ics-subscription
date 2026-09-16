@@ -1349,10 +1349,11 @@ DTSTAMP:20200101T000000Z
 DTSTART;TZID=Europe/Paris:20261008T170000
 DTEND;TZID=Europe/Paris:20261008T182000
 SUMMARY:CISD - Réunion d'informations
-DESCRIPTION:4TCI902S CISD\nSemaines 41\nRéunion Présentation Stage Mast
- er Informatique\n4TGL904S M2 Génie Logiciel\n4TIA901S M2 Intelligence ar
- tificielle\n4TIS904S M2 Informatique pour l'Image et le Son\n4TIV903S M2 
- IPCV\n4TSD901S ASPIC\nDelbruel Stéphane
+LOCATION:A29 / Amphithéâtre D
+DESCRIPTION:4TCI902S CISD\nA29 / Amphithéâtre D\nSemaines 41\nRéunion 
+ Présentation Stage Master Informatique\n4TGL904S M2 Génie Logiciel\n4TI
+ A901S M2 Intelligence artificielle\n4TIS904S M2 Informatique pour l'Image
+  et le Son\n4TIV903S M2 IPCV\n4TSD901S ASPIC\nDelbruel Stéphane
 END:VEVENT
 BEGIN:VEVENT
 UID:661490c6e7658b66a7248dbf8fca28c113aab5e9@celcat.u-bordeaux.fr
